@@ -1,0 +1,74 @@
+AddedRecipes:
+(
+    ItemID:Magnetite; 
+    AmountCrafted: 2;
+    Ingredients:
+        ( ItemID:ScrapMetal; Required:4; );
+    Path:Fabricator/Resources/SMetal;
+    ForceUnlockAtStart: NO;
+	UnlockedBy: Magnetite;
+),
+(
+    ItemID:Nickel; 
+    AmountCrafted: 3;
+    Ingredients:
+        ( ItemID:ScrapMetal; Required:4; );
+    Path:Fabricator/Resources/SMetal;
+    ForceUnlockAtStart: NO;
+	UnlockedBy: Nickel;
+),
+(
+    ItemID:Ruby; 
+    AmountCrafted: 2;
+    Ingredients:
+        ( ItemID:ScrapMetal; Required:3; );
+    Path:Fabricator/Resources/SMetal;
+    ForceUnlockAtStart: NO;
+	UnlockedBy: Ruby;
+),
+(
+    ItemID:Lithium; 
+    AmountCrafted: 2;
+    Ingredients:
+        ( ItemID:ScrapMetal; Required:3; );
+    Path:Fabricator/Resources/SMetal;
+    ForceUnlockAtStart: NO;
+	UnlockedBy: Lithium;
+),
+(
+    ItemID:Lead; 
+    AmountCrafted: 2;
+    Ingredients:
+        ( ItemID:ScrapMetal; Required:2; );
+    Path:Fabricator/Resources/SMetal;
+    ForceUnlockAtStart: NO; 
+	UnlockedBy: Lead;
+),
+(
+    ItemID:Gold; 
+    AmountCrafted: 1;
+    Ingredients:
+        ( ItemID:ScrapMetal; Required:2; );
+    Path:Fabricator/Resources/SMetal;
+    ForceUnlockAtStart: NO; 
+	UnlockedBy: Gold;
+),
+(
+    ItemID:Silver; 
+    AmountCrafted: 3;
+    Ingredients:
+        ( ItemID:ScrapMetal; Required:2; );
+    Path:Fabricator/Resources/SMetal;
+    ForceUnlockAtStart: NO;
+	UnlockedBy: Silver;
+),
+
+(
+    ItemID:Copper;
+    AmountCrafted: 3;
+    Ingredients:
+        ( ItemID:ScrapMetal; Required:1; );
+    Path:Fabricator/Resources/SMetal;
+    ForceUnlockAtStart: NO;
+	UnlockedBy: Copper;
+);

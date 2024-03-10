@@ -1,0 +1,6 @@
+MovedRecipes:
+(
+	ItemID: Titanium;
+	OldPath: Fabricator/Resources/BasicMaterials;
+	NewPath: Fabricator/Resources/SMetal;
+	);

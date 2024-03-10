@@ -1,0 +1,14 @@
+ModifiedRecipes:
+(
+	ItemID:constructor;
+	Unlocks:HabitatPlatform;
+),
+(
+	ItemID:cyclops;
+	Unlocks:dadsub;
+	Unlocks;socktank;
+),
+(
+	ItemID:beacon;
+	ForceUnlockAtStart: YES;
+);
