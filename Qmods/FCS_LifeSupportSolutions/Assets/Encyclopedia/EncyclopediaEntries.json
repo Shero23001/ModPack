@@ -1,0 +1,48 @@
+{
+  "Life Support__Mini Med Bay": [
+    {
+      "Path": "fcs/Life Support",
+      "TabTitle": "Life Support",
+      "Title": "Mini Med Bay",
+      "Body": "The Alterra Mini Med Bay is the only real choice when you\u2019re stranded alone and in need of emergency care, or when your medical personnel have been gobbled up by voracious tree roaches or local fauna or entitled visiting executives.\n\nAll Alterra Med Bay designs have been extensively upgraded with greater capacity and more compact technology to expand your placement options, and not because of vicious rumors that earlier designs had haunting defects leading to unfortunate surgical...attachments or alterations. These absolutely scandalous and perjurious prevarications are categorically false and can be completely disregarded: Alterra Med Bays of all sizes are perfectly safe. We promise.\n\nAn automatic medical scan is completed when you step on the platform. Should any physical injury be detected, you can begin automated treatment by placing your hand on the Heart emblem in the interface.\n\nFor your convenience, the Mini Med Bay has been upgraded to automatically create 6 Health Kits rated for use in hostile environments.\n\nNota Bene: The Alterra Mini Med Bay can only diagnose and repair physical injuries. For psychological diagnosis and treatment, please see your Alterra Corp representative for a brochure for the Alterra Psychological Support Digital Catalog. (Seriously, please! Do you know how hard it is to talk Mission Planning into licensing the Psychological Support catalog? You can\u2019t just subsidize alcohol all the time! \u2018We can repair the liver damage,\u2019 I mean, come ON! )\n\nThe Alterra Mini Med Bay: you break it, we license you a way to fix it",
+      "ImageName": "MiniMedBay",
+      "Unlocked": true,
+      "UnlockedBy": null,
+      "TechTypeString": "MiniMedBay"
+    }
+  ],
+  "Life Support__Base Oxygen Tank": [
+    {
+      "Path": "fcs/Life Support",
+      "TabTitle": "Life Support",
+      "Title": "Base Oxygen Tank",
+      "Body": "The Alterra Base Oxygen Tank is a time-tested design that still sees service everywhere there isn\u2019t air. No fancy technology, no routine maintenance, it just filters and pressurizes surface air to supply your Habitat. \n\nThis comparatively low-yield device was designed with small, near-surface Habitats in mind; however, there is no technical limit on depth or distance so long as air can be supplied to the Base Oxygen Tank.\n\n[Notice: Duplicate Product Detected in Mission PDA. Congratulations! It seems your mission licensed the blueprint for the Base Oxygen Tank as a safety measure. Because of this, your Builder Tool will have two options for building the Base Oxygen Tank, using either local materials or an AlterraKit.]\n\nBasic Setup:\n  - Attach the Base Oxygen Tank\n  - Float an Air Pump to the surface \n  - Connect the Floating Air Pump to Base Oxygen Tank with air tubing\n     - Connecting: air tubing will automatically connect when in range\n     - Disconnecting: you must manually disconnect the pipe at the connector before the air tubing can be collected\n\nCaveats: \n  - A Floating Air Pump only delivers enough air for one Base Oxygen Tank\n  - The Base-attached Air Pump cannot be used due to insufficient airflow and lapsed licensing agreements\n\nThe Base Oxygen Tank works with the built-in air movers present in each Habitat Module to move air through the Habitat but lacks both the oxygen output and the integrated support technology for optimal oxygen distribution that are present in the Base Utility Unit (see Life Support > Base Utility Unit).\n\nSupplying your Habitat with sufficient air is important. If Habitat size exceeds the Base Oxygen Tank carrying capacity, it will be harder to breathe and recharge air tanks. The Base Oxygen Tank will display important capacity information to your always-up display when you are in range, telling you the number of Active and Required Tanks (e.g. Active Tanks: 1, Required Tanks: 1.2).\n\nPlanning for your air needs ahead of time may be crucial for your survival. In general, the Base Oxygen Tank can support 2 large Habitat modules or 10 smaller modules and connector modules, mixed in any combination. For example, an outpost consisting of a Multipurpose Room, Scanner Room, two connector modules, and an Observatory would display \u201cRequired Tanks: .9\u201d\n\nThe Alterra Base Oxygen Tank: bringing you the best in\u2026 Oh come on, who are we kidding? We don\u2019t really want to sell these -- they aren\u2019t really profitable -- but we want to keep you alive so you can Buy, Share, and Enjoy the rest of the great line of Alterra Products and Services such as the Base Utility Unit, available now at your nearest Alterra Hub.",
+      "ImageName": "BaseOxygenTank",
+      "Unlocked": true,
+      "UnlockedBy": null,
+      "TechTypeString": "BaseOxygenTank"
+    }
+  ],
+  "Life Support__Energy Pill Vending Machine": [
+    {
+      "Path": "fcs/Life Support",
+      "TabTitle": "Life Support",
+      "Title": "Energy Pill Vending Machine",
+      "TechTypeString": "EnergyPillVendingMachine",
+      "Body": "Life got you down? Finding it hard to concentrate when you're extremely hungry or thirsty? Grab an Alterra Energy Pill to give you that extra oomph to complete your projects on time!\n\nAlterra Energy Pills contain a patented, time-released Synthetic Adrenal Gland Activator to give you additional adrenaline and make you, for a short time, \u201csuper-human\u201d. Whether you need to outrun ravenous creatures on harsh, exotic worlds or outrun ravenous Project Managers at the office, Alterra Energy Pills will give you the competitive edge you need.\n\nWhen you consume an Energy Pill, your always-up self-diagnostic display will indicate how long the adrenaline surge will last.\n\n    - Blue pills: 30 seconds\n    - Green pills: 1 minute\n    - Red pills: 2 minutes\n\n[Disclaimer: Alterra Corp is legally required to say Energy Pills are a 'novelty product', not intended as a replacement for food or water, should not be violently inserted into the eye, and may cause side-effects. (ERROR Loading document 'SideEffects.doc': Insufficient PDA memory. For a list of possible side effects, please consult an Alterra Representative for a reiteration of this disclaimer.)]\n\n[Additional Disclaimer from the Alterra Legal Department: the product claim of making you temporarily \u201csuper-human\u201d is based on returning one to a state of \u201cnormal human\u201d instead of the state of semi-lethargy one falls into when extremely hungry or thirsty thus exceeding the colloquial bounds of \u201cnormal human\u201d \u2013 at least according to Alterra\u2019s Lawyers]",
+      "ImageName": "EnergyPillVendingMachine",
+      "Unlocked": true
+    }
+  ],
+  "Life Support__Base Utility Unit": [
+    {
+      "Path": "fcs/Life Support",
+      "TabTitle": "Life Support",
+      "Title": "Base Utility Unit",
+      "TechTypeString": "BaseUtilityUnit",
+      "Body": "The Alterra Base Utility Unit is the ultimate advancement in self-sustaining Habitat Support, performing many small service functions to ensure optimal equipment performance and longevity. Built with Alterra RunSafe self-repair technology, it even looks after itself.\n\nAll Alterra Habitat Module and Base Component blueprints incorporate Alterra Unified Material Manifold technology, allowing the Base Utility Unit to channel service products where they are needed.\n\nLimited Life-Support functions are provided by the Base Utility Unit: \n\nWater: \n\nWhen submerged, the Unified Material Manifold provides biologically-inert, pressurized water throughout the habitat. The water is suitable for industrial usage or waste-removal and cleanup but is not potable: only water that has been filtered should be consumed. Consuming unfiltered water may void your tongue\u2019s warranty and contain prions or other sub-biological compounds that will turn your insides into [continuation of this entry only suitable for those over the age of 95 so they won\u2019t have long to live with the post traumatic stress].\n\nHabitat Modules with water-using Appliances or Industrial Machinery no longer need to be submerged as the Unified Material Manifold ensures uniform pressure in all Habitat Modules. \n\nEnjoy a refreshing drink from the Alterra Mini Filter & Fountain (see Home > Mini Filter & Fountain) in any Module, above or below the submergence line. (NB: the large Water Filtration Machine draws in outside fluid directly and does not offer this benefit)\n\nOxygen:\n\nThe Unified Material Manifold provides oxygen at high pressure and intelligently operates the air processing membranes in each base module's air handler system, providing optimal atmospheric balance. Base Utility Units use an Adaptive-Collaboration Design allowing multiple Base Utility Units to work together seamlessly. Please contact the Alterra Base Construction Guidelines Committee before off-world habitat construction for optimal Personnel/Module/Unit ratios.\n\nOxygen in the Base Utility Module can be tapped into directly when in front of the unit.\n\nThe Alterra Base Utility Unit: abundant clean air and clean water -- the clean living is up to you.",
+      "ImageName": "BaseUtilityUnit",
+      "Unlocked": true
+    }
+  ]
+}

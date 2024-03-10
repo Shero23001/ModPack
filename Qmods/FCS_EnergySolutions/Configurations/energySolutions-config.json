@@ -1,0 +1,14 @@
+{
+    "EnableDebugLogs": false,
+    "EnableDisableLights": true,
+    "IsJetStreamT242Enabled": true,
+    "IsAlterraSolarPanelClusterEnabled": true,
+    "IsTelepowerPylonEnabled": true,
+    "IsPowerStorageEnabled": true,
+    "PowerStoragePowerDrainPerSecond": "1",
+    "IsAlterraGenEnabled": true,
+    "IsWindSurferEnabled": true,
+    "IsUniversalChargerEnabled": true,
+    "TelepowerPylonTrailBrightness": "1",
+    "TelepowerPylonPowerUsagePerMeter": "0.0009"
+}

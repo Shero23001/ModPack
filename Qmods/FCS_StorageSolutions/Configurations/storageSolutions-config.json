@@ -1,0 +1,6 @@
+{
+    "EnableDebugLogs": false,
+    "IsRemoteStorageEnabled": true,
+    "IsDataStorageSolutionsEnabled": true,
+    "ShowServerCustomToolTip": true
+}

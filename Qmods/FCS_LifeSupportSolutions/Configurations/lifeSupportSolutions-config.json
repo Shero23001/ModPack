@@ -1,0 +1,9 @@
+{
+    "EnableDebugLogs": false,
+    "BaseUtilityUnitIsModEnabled": true,
+    "BaseUtilityUnitAffectPlayerOxygen": false,
+    "BaseUtilityUnitPlaySFX": true,
+    "SmallBaseOxygenHardcore": false,
+    "IsEnergyPillVendingMachineEnabled": true,
+    "IsMiniMedBayEnabled": true
+}

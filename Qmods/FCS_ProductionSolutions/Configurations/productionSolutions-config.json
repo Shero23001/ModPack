@@ -1,0 +1,22 @@
+{
+    "EnableDebugLogs": false,
+    "IsMatterAnalyzerEnabled": true,
+    "MatterAnalyzerPlaySFX": true,
+    "IsReplicatorEnabled": true,
+    "IsHydroponicHarvesterEnabled": true,
+    "HHIsLightTriggerEnabled": true,
+    "HHLightTriggerRange": 4,
+    "IsDeepDrillerEnabled": true,
+    "DDMK3FxAllowed": true,
+    "DDOrePowerUsageBelowDefault": "0.0264",
+    "DDOilTimePeriodInDays": "30",
+    "DDOilRestoresInDays": "5",
+    "DDAdditionalBiomeOres": {},
+    "DDMaxOreCountUpgradePowerUsage": "0.2",
+    "DDInternalBatteryCapacity": "1000",
+    "DDDrillAlterraStorageRange": "30",
+    "DDStorageSize": 300,
+    "DDSolarCapacity": "125",
+    "IsAutocrafterEnabled": true,
+    "MasterDeepDrillerVolume": "0.1"
+}

@@ -1,0 +1,91 @@
+{
+  "Energy__JetStream T242": [
+    {
+      "Path": "fcs/Energy",
+      "TabTitle": "Energy",
+      "Title": "JetStream T242",
+      "Body": "The JetStream T242 builds on earlier designs of fluid-current turbines by offering Alterra RunSafe Technology. RunSafe Technology integrates minor self-repair capabilities into an already sturdy design, reducing maintenance in harsher or more biologically complex environments and virtually eliminating it in clement ones. RunSafe Technology makes the Alterra JetStream T242 the ideal choice for all environments.\n\nLike all turbine generators, the energy produced is related to the current flow. Expect energy output to vary in different areas and to fluctuate if your environment has variable currents. The T242 will sense and adapt to changes in current direction, maximizing current flow.\n\nFor operational data regarding the T242, simply approach the unit and the information will be transmitted to your personal, always-up display.\n\nThe JetStream T242 has a fluid viscosity range of .8 centipoise to 500 centipoise and should be submerged at least 3 meters. Optimal output occurs between 1 and 15 centipoise (water and ethylene glycol respectively at 70F/21C and Earth standard atmospheric pressure).\n\nFor viscosities outside the operating range of the T242, consult the Alterra JetStream digital catalog of designs.\n\nThe Alterra JetStream: where there\u2019s movement, there\u2019s power!",
+      "ImageName": "JetStreamT242",
+      "Unlocked": true,
+      "UnlockedBy": null,
+      "TechTypeString": "JetStreamT242"
+    }
+  ],
+  "Energy__Universal Charger": [
+    {
+      "Path": "fcs/Energy",
+      "TabTitle": "Energy",
+      "Title": "Universal Charger",
+      "TechTypeString": "UniversalCharger",
+      "Body": "The Alterra Universal Charger is the practical answer to your mobile power needs, holding 10 Power Cells or 10 Batteries at a time and recharging them when Base Power is plentiful.\n\nThe high-contrast display keeps you constantly informed of each item\u2019s recharge state so you can always grab a full Battery or Power Cell, even when you\u2019re in a hurry.\n\nThe Alterra Universal Charger: if it needs power, we can recharge it.",
+      "ImageName": "UniversalCharger",
+      "Unlocked": true
+    }
+  ],
+  "Energy__Wind Surfer": [
+    {
+      "Path": "fcs/Energy",
+      "TabTitle": "Energy",
+      "Title": "Wind Surfer",
+      "TechTypeString": "WindSurferOperator",
+      "Body": "The Alterra Wind Surfer is a shining example of Alterra\u2019s leadership in Self-Reconfiguration Technology, boosting efficiency and lowering costs by requiring fewer Scaled Manufacturing Platforms and spending less time per site.\n\nAlterra Wind Surfer provides an integrated Wind Turbine Power Generator System, Telepower Pylon and Isolated Building Space, capable of being deployed in a variety of planetary environments.\n\nYour mission has licensed the following Alterra Wind Surfer products:\n  - Fluid Surface Platform Interface\n  - Low Atmospheric Viscosity Turbines\n  - Mobile Vehicle Platform Deployment Software\n\nFor your convenience, the Alterra Hub Purchasing Interface will only make these AlterraKits available when you have acquired a compatible Alterra Mobile Vehicle Platform.\n\nThe Alterra Wind Surfer system consists of three parts:\n\n  - Operator: The Alterra Wind Surfer Operator is the control center for the Wind Surfer. From here you configure the architecture of the Alterra Wind Surfer and monitor its operations. Use the central monitor in the Alterra Wind Surfer Operator to place Platforms and Turbines. Each Alterra Wind Surfer Operator can control 15 Wind Surfer modules. \n\nThe Operator has an integrated Telepower Pylon and a self-contained constructor. Platform and Turbine AlterraKits must be in range of the constructor sensor interface to be used. The Telepower Pylon designation is displayed just to the left of the Operator door under the Alterra Corp logo.\n\nMission Addendum: Congratulations! Your mission has licensed the Alterra SmartPigment Propagator for the Wind Surfer Operator. For your convenience, when using the Paint Tool (Home > Paint Tool) on the Wind Surfer Operator, the selected Color Palette will be propagated to all Platforms, Turbine Platforms, and attached Alterra Corporation devices overriding any previously applied color palette. Platforms, Turbine Platforms, and attached Alterra Corporation devices may be individually painted after the SmartPigment Propagator run.\n\nNota Bene: Attached machines and objects should be deconstructed from Platforms and Turbine Platforms before Platforms or Turbine Platforms are removed.\n\n  - Platform: Alterra Wind Surfer Platform is an open, out-door building space. Due to the nature of Self-Reconfiguration Technology, the Construct/Deconstruct Signatures are incompatible with Base Modules. While they can be built within proximity with each other, they will not integrate.\n\n  - Turbine: Alterra Wind Surfer Turbine is a floating platform with a Wind Turbine. Each Wind Turbine offers Alterra RunSafe Technology. RunSafe Technology integrates minor self-repair capabilities into an already sturdy design, reducing maintenance in harsher or more biologically complex environments and virtually eliminating it in clement ones. RunSafe Technology makes the Alterra Wind Surfer Turbine the ideal choice for all compatible environments.\n\nLike all turbine generators, the energy produced is related to the atmospheric flow.\n\nAlterra Wind Surfer: When you absolutely, positively need more power than you know what to do with.",
+      "ImageName": "WindSurferOperator",
+      "Unlocked": true
+    }
+  ],
+  "Energy__Bio Fuel": [
+    {
+      "Path": "fcs/Energy",
+      "TabTitle": "Energy",
+      "Title": "Bio Fuel",
+      "TechTypeString": "FCSBioFuel",
+      "Body": "Bioreactors are a safe, environmentally friendly way to generate power. Just throw in whatever biological matter you have on hand and out comes power. But somehow, it\u2019s never that easy. Biological material is messy, can be time-consuming to harvest or catch, and be unwieldy to lug around and cram into the bioreactor\u2019s material input port.\n\nNot so with Alterra Bio Fuel.\n\nHigh-quality, compressed biological material in an easy to carry, stylish container. Suitable for all bioreactors and available at your fingertips from the Alterra Hub.\n\nWhat\u2019s it made of? Don\u2019t even think about it: just throw the entire container in the bioreactor. No mess, no smell, no hassle.\n\n ...and, seriously, don\u2019t worry (it\u2019s nobody you knew)",
+      "ImageName": "FCSBioFuel",
+      "Unlocked": true
+    }
+  ],
+  "Energy__Telepower Pylon": [
+    {
+      "Path": "fcs/Energy",
+      "TabTitle": "Energy",
+      "Title": "Telepower Pylon",
+      "TechTypeString": "TelepowerPylon",
+      "Body": "The Alterra Telepower Pylon is at the sharpest point of cutting edge in abstract Base-to-Base power networks. Using TwistingTunnel Technology \u2013 an offshoot of the technology used by Alterra SpaceTime Solutions in its Quantum Travel line of products (Home > Quantum Travel) \u2013 the Telepower Pylon is able to create, dismantle, and recreate power delivery networks in seconds while delivering power over vast distances and through nearly any material.\n\nEach Alterra Telepower Pylon can connect to other Telepower Pylons in one of two mods:\n  - In Push Mode, the base will send, but not receive, power.\n  - In Pull Mode, the base will receive, but not send, power.\n\nIf multiple Telepower Pylons are placed on a Base, they will synchronize so that any Telepower Pylon on a Base can be used. \n\nThe MK1 Interconnection Module is supplied with every Alterra Telepower Pylon and allows up to 6 connections to other Telepower Pylons. Two upgrade modules are available:\n  - the Telepower MK2 Upgrade, which allows up to Telepower Pylons 8 connections\n  - the Telepower MK3 Upgrade, which allows up to Telepower Pylons 10 connections\n\nThe display will list Telepower Pylons in the opposite mode (i.e, when in Push mode, the display will show Telepower Pylons in Pull mode) safe and easy configuration. Select a Telepower Pylon to create a connection, de-select to break the connection.\n\nPower Network Architecture Note: Power delivery is \u2018virtually\u2019 lossless, there is some energy cost for signal stability. This cost is 0.00085 energy per second for each meter of distance for each pulling pylon. At 1000 meters, this cost is 51 energy per minute -- the equivalent of a standard Water Filter device. (Nota Bene: tinkering with a Alterra Telepower Pylon to alter its efficiency will void all warranties and may incur legal costs due to copyright and/or patent violations)\n\nThe Alterra Telepower Pylon:  Nikola Tesla promised, we delivered.",
+      "ImageName": "TelepowerPylon",
+      "Unlocked": true
+    }
+  ],
+  "Energy__AlterraGen": [
+    {
+      "Path": "fcs/Energy",
+      "TabTitle": "Energy",
+      "Title": "AlterraGen",
+      "TechTypeString": "AlterraGen",
+      "Body": "Alterra Biodynamics Division brings you another great leap forward in bioreactor technology: the AlterraGen.\n\nSmaller and more flexible than its larger predecessors, several AlterraGen units may be comfortably fit into a single Multi-Purpose Habitat Module. (NB: Alterra Health and Safety recommends housing no more than seven units in a multipurpose room, though it will house eight in emergencies -- and if you've been skipping dessert).\n\nThe AlterraGen is environmentally sealed and suitable for exterior use, giving you maximum design flexibility and reducing the required interior space.\n\nLike all bioreactors, AlterraGen chemically composts organic materials, converting them into energy over time, proportional to the calories in the organic matter. AlterraGen can accept all plant matter, from seeds and spores to moldy fruits and vegetables, and will process most animal matter (fat, muscle, eggs, etc) and some organic waste products.\n\nFrom the interface, biomatter is loaded into one of 9 composting bins. Each biomatter item will be placed in its own composting bin for tailored bio-reaction.\n\nThe bins can adapt to hold large or small items within the unit. Test your biological items in your local environment for optimal results. The interface will let you observe which biomatter objects are currently being composted.\n\nBy tailoring the bio-reaction to the specific biomatter in a bin, the AlterraGen is able to extract more energy for a given period of time than the standard bio-reactor and can more efficiently extract energy from large items \u2013 up to 2.2 times the amount a standard bio-reactor can extract \u2013 giving you more options in standing bio-matter reserves for times the AlterraGen must remain unattended.\n\nIf the unit needs to be switched off, the organic matter composting will be chemically suspended and the power reserve will not discharge until the unit is switched on.\n\nThe AlterraGen: when you need to suck energy out of living matter, call Alterra Corp!",
+      "ImageName": "AlterraGen",
+      "Unlocked": true
+    }
+  ],
+  "Energy__Solar Cluster": [
+    {
+      "Path": "fcs/Energy",
+      "TabTitle": "Energy",
+      "Title": "Solar Cluster",
+      "TechTypeString": "SolarCluster",
+      "Body": "The Alterra Solar Cluster is the latest in efficient photon conversion, giving you a reliable, maintenance free power source anywhere the sun goes. Built with Alterra SunChaser technology, the Solar Cluster not only tracks the strongest solar source for optimal energy output, but can respond even when normal operations are powered down.\n\nFor optimal results, the Alterra Solar Cluster should be constructed in direct sunlight and clear atmosphere; however, the Alterra Solar Cluster can operate in harsh and aquatic environments as well.\n\nPower throughput is equivalent to 10 standard, optimally placed solar panels. Internal storage is equal to almost 1.75 Power Cells. It is strongly recommended that the Alterra Solar Cluster be paired with one or more Alterra PowerStorage units (see Energy > PowerStorage) depending on dusk-to-dawn energy requirements.\n\nThe Alterra Solar Cluster: all the fun of nuclear fusion without all the fuss.",
+      "ImageName": "SolarCluster",
+      "Unlocked": true
+    }
+  ],
+  "Energy__PowerStorage": [
+    {
+      "Path": "fcs/Energy",
+      "TabTitle": "Energy",
+      "Title": "PowerStorage",
+      "TechTypeString": "PowerStorage",
+      "Body": "The Alterra PowerStorage Advanced is the next evolution in Power Overload Protection. Re-engineered to use TwistingTunnel Technology, an offshoot of the technology used by Alterra SpaceTime Solutions in its Quantum Travel line of products (Home > Quantum Travel), an Alterra PowerStorage unit is able to deliver a whopping 10,000 units of energy storage in a maintenance-free, external housing unit.\n\nOperation is fully automatic and self-monitoring, charging when power is plentiful and discharging when the base grid is under extreme load. \n\nPower discharge is into the Base Grid and via integrated Power Transmitter.\n\nTechnical data will be projected to your always-up display when near the PowerStorage unit but its charge level is viewable from a distance from the vertical fill level display and color of the virtual particles. Colors will range from Deep Red when discharged to Bright Green when fully charged.\n\nPower uptake can be optionally set from 1 energy-unit-per-second to 50 energy-units-per-second to give maximum flexibility in power-grid tailoring.\n\nAlterra PowerStorage: the simple solution to life\u2019s complicated power problems",
+      "ImageName": "PowerStorage",
+      "Unlocked": true
+    }
+  ]
+}

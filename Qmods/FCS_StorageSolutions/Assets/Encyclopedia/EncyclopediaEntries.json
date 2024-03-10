@@ -1,0 +1,90 @@
+{
+  "Storage__Antenna": [
+    {
+      "Path": "fcs/Storage",
+      "TabTitle": "Storage",
+      "Title": "Antenna",
+      "TechTypeString": "DSSAntenna",
+      "Body": "The Alterra Antenna is a state-of-the-art transceiver equipped with Alterra SignalSwarm encryption for unsurpassed security and patented Alterra OmniPath technology for strong, reliable signal even when there\u2019s a planet between you.\n\nConstruct the Alterra Antenna on a platform or habitat module to link your local Data Storage Network with other available local Data Storage Networks, giving you access to items stored half a world away.\n\nAddendum: Congratulations! Your Alterra Mission Planner licensed Alterra Integrated DSS Antenna: Cyclops for every Cyclops on your mission. Just add an Alterra C48 Terminal to your Cyclops and you\u2019re on the Global Digital Storage Network!\n\nThe Alterra Antenna: a secure signal any time, anywhere.",
+      "ImageName": "DSSAntenna",
+      "Unlocked": true
+    }
+  ],
+  "Storage__Terminal S23": [
+    {
+      "Path": "fcs/Storage",
+      "TabTitle": "Storage",
+      "Title": "Terminal S23",
+      "TechTypeString": "DSSItemDisplay",
+      "Body": "Alterra S23 Terminals are the hallmark of accessibility. These small, inexpensive screens give you convenient access to your Data Storage Network even in the tightest spaces.\n\nThe S23 Terminal gives you direct access to a single item. Activate the center of the device and provide it an item example to scan. The S23 Terminal will give you access to that item until reset by the icon on the left of the screen. \n\nMultiple S23 Terminals can be configured to deliver the same item, decreasing restocking tasks while reducing item redundancy and the lost hours looking for misplaced tools: no need to make, store, and misplace 20 Repair Tools to pass that safety audit, just place 1 Repair Tool in Data Storage and grab it from the conveniently located S23 Terminal, and toss it back in Data Storage from any other conveniently located S23 Terminal. \n\nNew in the S23 model is a bi-directional Data Storage Network antenna for the added convenience of adding all types of items into your Data Storage Network. Access is with the icon at the top left of the UI.\n\nNota Bene: the S23 Terminal will only access local servers.\n\nThe Alterra Terminal S23: Putting things just where you need them so you'll never again be far from an Alterra Yummy-Nummy\u2122 Nutrient Paste Tube again!",
+      "ImageName": "DSSItemDisplay",
+      "Unlocked": true
+    }
+  ],
+  "Storage__Terminal C48": [
+    {
+      "Path": "fcs/Storage",
+      "TabTitle": "Storage",
+      "Title": "Terminal C48",
+      "TechTypeString": "DSSTerminalMonitor",
+      "Body": "The Alterra C48 Terminal is the next level in Data Storage Access and Control. With access to every connected storage network, manufacturing center, industrial site, cyclops, and remote habitat, the C48 Terminal puts the entire Global Data Storage Network at your fingertips. \n\nYour Mission Package includes the following Plugins:\n   - Moonpool Auto-Extraction (Local: accessed by \u2018Change Screen\u2019 control)\n   - Transceiver Automation (Global: accessed via the Global Network > Base > Settings control)\n\n\nData Storage Network\n\nAccess to all connected locations is available from the Global icon in the upper-left along with the Add Items and Power controls.\n\nItem viewing defaults to All Items but can be limited to items stored in Server Racks, Remote Storage Units, or Storage Lockers. Or you can simply Search for the item.\n\nTo conveniently withdraw multiple items, adjust the Multiplier control (located to the left of the Search control).\n\n\nMoonpool Controls\n\nSelect a moonpool-docked vehicle to access its storage bays. You may load and unload items from any selected storage compartment.\n\nAccess \u201cMoonpool Settings\u201d to control docking behavior. \n\nThe Data Storage Network can be set to automatically pull items from docked vehicles \u2013 toggle is in the lower right. You may also elect to \u201cBlacklist\u201d certain items from being automatically unloaded from docked vehicles.\n\nTo access the storage containers of vehicles docked at the local base, select the vehicle name from Available Vehicles. Please be aware that non-blacklisted items may be transferred into DSS if placed in the storage containers of docked vehicles.\n\n\nTransceiver Controls\n\nFor Transceiver Operation and Programming, see Storage > Transceiver.\n\nThe Alterra C48 Terminal: access to everything but the bathroom.",
+      "ImageName": "DSSTerminalMonitor",
+      "Unlocked": true
+    }
+  ],
+  "Storage__Transceiver ": [
+    {
+      "Path": "fcs/Storage",
+      "TabTitle": "Storage",
+      "Title": "Transceiver ",
+      "TechTypeString": "DSSTransceiver",
+      "Body": "The Alterra Transceiver is a Data Storage Network Utility Extension Component, allowing compatible devices to request items from the Local Data Storage Network. \n\nDevice Connection\n\nCompatible Alterra Devices designed to work within the Base Area Network will auto-configure when a transceiver is detected. Those designed to work autonomously or outside the Base Area Network (such as the Alterra Deep Driller: Heavy Duty) will have to be manually configured at the device.\n\nConnecting an Autonomous, DSS-Aware Unit: \n    - Note the Base Designation (e.g., BS011). You can find this from the home screen of the FCStudios PDA and the C48 Terminal, just to the right of the base name in the display.\n    - From the Autonomous Unit\u2019s Settings, go to the Programming page. \n    - Select Templates and choose the \u2018Connect to base\u2019 template. \n    - Replace the \u201c{BaseID}\u201d portion of the template with the Base Designation (e.g., \u201cos.ConnectToBase(BS011);\u201d ) and press Execute Function.\n\nIf executed properly, you will have a toggleable option to enable/disable connection to the configured base.\n\nTransceiver Settings\n\nTechnical Note: The Alterra C48 Terminal is required (see Storage > C48 Terminal)\n\nTransceiver-enabled devices connected to a Base are displayed in Base Settings (C48 Terminal > Global Icon > Base > Settings). Select a device to bring up the Transceiver Settings.\n\nIn Transceiver Settings you may: \n    - Enable or Disable the operation.\n    - Select the items to transfer.\n    - Set the \u201cminimum inventory\u201d number of items to keep in the target device.\n    - Set the \u201creserve amount\u201d to keep a minimum number of transferable items on-hand. The Transceiver will only send if your storage has more than this number of items.\n\nCompatible Devices:\n  - Alterra Ore Consumer\n  - Alterra Gen\n  - Alterra Deep Driller: Heavy Duty\n\nThe Alterra Item Transfer Unit: letting your devices look after themselves so you have more time to enjoy your Alterra Television or enjoying your leisure time at the Peeper Lounge.",
+      "ImageName": "DSSTransceiver",
+      "Unlocked": true
+    }
+  ],
+  "Storage__- Introduction to Data Storage": [
+    {
+      "Path": "fcs/Storage",
+      "TabTitle": "Storage",
+      "Title": "- Introduction to Data Storage",
+      "TechTypeString": "storageIntro",
+      "Body": "The Alterra Data Storage Network family of devices brings you the absolute latest in what we are legally required to call \"Data Storage\" (see Legal Notice below).\n\nThe \u00e0 la carte design of the catalog lets you build your Data Storage Networks to fit your specific needs. Whether it\u2019s an S23 Terminal with a single server or an interconnected web of habitats filled with Floor Server Racks and vehicles servicing Remote Storage Units for a farm of Autonomous Drill Platforms, the Alterra Data Storage Network sizes to fit any need.\n\nWARNING: storing sentient life forms (or humans) is not supported by the Data Storage Network. Should you accidentally store a fellow sentient or human, you will be responsible for bringing them out IMMEDIATELY. And you will be liable for all subsequent medical and psychological treatment fees as well as any court costs when Alterra Corporation sues you for violation of the EULA. Should you accidentally become stored, Alterra Corp will send a complimentary condolence card to your listed next-of-kin.\n\nLEGAL NOTICE: In Psychologists United v. Alterra Corp, the justices held that explaining the [redacted] technology (even at a cursory level for the purposes of marketing and intimidating the competition with large, hard to understand technical terms) used a nearly lethal level of technical jargon and that its description to a layman, engineer, or doctoral candidate constituted the wanton infliction of gross mental harm and emotional torture. Its use in warfare was banned by a special session of the Geneva Convention.\n\nAlterra Corporation has been enjoined from saying more than the following:\n\n  - the technology was developed for Alterra Yummy-Nummy Pizzerias -- delivered in 30 Seconds Or Less Or Your Pizza Is Free!\n  - that it involves sucking scanned items into its own temporally distinct, zero-dimension pocket universe and pulling it back out\n  - that the pseudo-address of the item is quantum-encoded into the Data Disk rather than the matter being somehow \u2018digitized\u2019 (physical laws apply to Alterra Corp, though management often disagrees), which is why every item, big or small, uses the same amount of storage space\n\nAlterra Corporation thanks you for your patience as it complies with the court's order to \"just shut up and call it 'Data Storage\u2019 -- and don\u2019t you dare say \u2018if you\u2019d just let me explain how cool it is\u2019 to me again!\"",
+      "ImageName": "DataStorageSolutionsItems",
+      "Unlocked": true
+    }
+  ],
+  "Storage__Remote Storage Unit": [
+    {
+      "Path": "fcs/Storage",
+      "TabTitle": "Storage",
+      "Title": "Remote Storage Unit",
+      "TechTypeString": "RemoteStorage",
+      "Body": "The Alterra Remote Storage Unit is a rugged storage platform suitable for use in all environments. Self-powering and 100% maintenance free thanks to a robust implementation of Alterra RunSafe Technology, the unit is suitable for small to medium scale industrial service -- for large scale industry, multiple Remote Storage Units are recommended.\n\nFor niche service, the Remote Storage Unit can operate on its own in remote areas as a material cache or as general storage in habitats without a Data Storage Network.\n\nSpecs:\n  - designed for exterior use but has been refitted to allow service within a habitat as well\n  - internal server bay with Data Storage for 200 items\n  - specialized, short-range Data Storage antennae for connections to multiple DSS-Aware Autonomous Drill Platforms (see Production > Deep Driller: Heavy Duty) as well as in-range Data Storage Access Terminals.\n\nNota Bene: In most applications, items are deposited via Data Storage Network technology, but it is still possible to add items by hand. Focus away from the UI and the Remote Storage Unit will display instructions in your personal always-up display.\n\nThe Alterra Remote Storage Unit: safe storage right where you need it.",
+      "ImageName": "RemoteStorage",
+      "Unlocked": true
+    }
+  ],
+  "Storage__Data Disk": [
+    {
+      "Path": "fcs/Storage",
+      "TabTitle": "Storage",
+      "Title": "Data Disk",
+      "TechTypeString": "DSSServer",
+      "Body": "The Alterra Data Disk is the heart of the Data Storage System. These versatile units hold access-address data for 48 items of any type.\n\nData Disks can be hot-swapped between Server Racks at any time and make an economical method of transporting a large number of items when a Habitat is not connected to the Global Network (see Storage > Antenna).\n\nData Disks themselves can be stored on a server HOWEVER a 'specific' Data Disk cannot be removed from a Data Storage Terminal and the order of removal is not controlled -- this is due to a defect in the quantum fabric of the universe and Alterra Engineering is actively looking for the proper supreme-entity with which to file a bug report.\n\nData Disks can be configured to filter items via the Server Interface (see Storage > Server Racks) and requires an exemplar item to scan to configure the filter.\n\nThe Alterra Data Disk: knowing where all your stuff is so you don\u2019t have to.",
+      "ImageName": "DSSServer",
+      "Unlocked": true
+    }
+  ],
+  "Storage__Server Racks": [
+    {
+      "Path": "fcs/Storage",
+      "TabTitle": "Storage",
+      "Title": "Server Racks",
+      "TechTypeString": "DSSServerRacks",
+      "Body": "Alterra Server Racks are maintenance-free housing units for Alterra Data Disks (see Storage > Data Disk), with integrated capacity display, easy-access bays, and a stylish exterior.\n\nThis Digital Catalog contains two Rack styles:\n\nWall Server Rack\n  - attached to interior wall surface (wall not included)\n  - 6 Data Disk bays (total storage: 288 items)\n\nFloor Server Rack\n  - free-standing (floor not included)\n  - 20 Data Disk bays (total storage: 960 items)\n\nAlterra Data Disks are added via the central loader. Alterra Data Disks can be ejected or configured for filtering by using the selective-interaction controls accessed when touching the individual Data Disk capacity display.\n\nAlterra Storage Racks: protecting your Data Disks just like they were ours.",
+      "ImageName": "DSSServerRacks",
+      "Unlocked": true
+    }
+  ]
+}
