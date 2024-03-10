@@ -1,0 +1,12 @@
+{
+    "EnableDebugLogs": false,
+    "FCSPDAKeyCode": "Backslash",
+    "PDAInfoKeyCode": "I",
+    "AdditionalStoreItems": [],
+    "OrePayoutMultiplier": "1",
+    "PlaySFX": true,
+    "AlterraTransportDroneFxAllowed": true,
+    "ShowCreditMessages": true,
+    "HideAllFCSOnScreenMessages": false,
+    "CreditMessageDelay": "0"
+}
