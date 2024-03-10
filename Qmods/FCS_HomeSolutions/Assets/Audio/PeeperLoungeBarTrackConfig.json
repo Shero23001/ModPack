@@ -1,0 +1,182 @@
+[
+  {
+    "Key": "PLB_AnnoyingFish",
+    "TrackName": "PeeperLoungeBar_AnnoyingFish",
+    "Caption": "These fish are so annoying. Would you mind taking them out?",
+    "IsRandom": false
+  },
+  {
+    "Key": "PLB_Hello",
+    "TrackName": "PeeperLoungeBar_Hello",
+    "Caption": "Hello Ryley! would you like to purchase something?",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_ThankYou",
+    "TrackName": "PeeperLoungeBar_ThankYou",
+    "Caption": "Thank You! Please come back again!",
+    "IsRandom": false
+  },
+  {
+    "Key": "PLB_Intro",
+    "TrackName": "PeeperLoungeBar_Intro",
+    "Caption": "Hello, my name is Peeper Lounge, nice to meet you. My function is to make your leisure time fun and efficient with a great selection of drinks and snacks from the Alterra Corporation. I am able to speak to you through your FCS PDA, isn't that great? However, if you prefer, you can disable my voice in the settings for FCS products.",
+    "IsRandom": false
+  },
+  {
+    "Key": "PLB_FishRemoved",
+    "TrackName": "PeeperLoungeBar_FishRemoved",
+    "Caption": "Thank you for taking those pesky fish out!",
+    "IsRandom": false
+  },
+  {
+    "Key": "PLB_NoCardDetected",
+    "TrackName": "PeeperLoungeBar_NoCardDetected",
+    "Caption": "I may be blind since I'm just a robot, but I cant seem to locate your debit card on your body anywhere.",
+    "IsRandom": false
+  },
+  {
+    "Key": "PLB_Z1_1",
+    "TrackName": "PeeperLoungeBar_Z1_1",
+    "Caption": "Hello Ryley, How about some Z1 snacks? They’re full of flavor for adventurers like you.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_Z1_2",
+    "TrackName": "PeeperLoungeBar_Z1_2",
+    "Caption": "Hello Ryley, How about some Z1 snacks? They’re a countdown to flavor.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_Z1_3",
+    "TrackName": "PeeperLoungeBar_Z1_3",
+    "Caption": "Hello Ryley, You look like you could use some Zee 1 snacks? They’re a countdown to flavor.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_Z1_4",
+    "TrackName": "PeeperLoungeBar_Z1_4",
+    "Caption": "Hello Ryley, You look like you could use some Z1 snacks? They’re full of flavor for adventurers like you.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_Z1_5",
+    "TrackName": "PeeperLoungeBar_Z1_5",
+    "Caption": "Hello Ryley, You look like you could use some Z1 snacks? They go great with your favorite TV program.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_Z1_6",
+    "TrackName": "PeeperLoungeBar_Z1_6",
+    "Caption": "Hello Ryley, How about some Z1 snacks? They go great with your favorite TV program.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_Z1_7",
+    "TrackName": "PeeperLoungeBar_Z1_7",
+    "Caption": "Hello Ryley, would you like some Zee 1 snacks? They go great with your favorite TV program.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_Z1_8",
+    "TrackName": "PeeperLoungeBar_Z1_8",
+    "Caption": "Hello Ryley, would you like some Zee 1 snacks? They’re full of flavor for adventurers like you.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_Z1_9",
+    "TrackName": "PeeperLoungeBar_Z1_9",
+    "Caption": "Hello Ryley, would you like some Zee 1 snacks? They’re a countdown to flavor!",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_MrSpicy_1",
+    "TrackName": "PeeperLoungeBar_MrSpicy_1",
+    "Caption": "Hello Ryley, How about some MrSpicy Chips. Your taste buds will be screaming in delight.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_MrSpicy_2",
+    "TrackName": "PeeperLoungeBar_MrSpicy_2",
+    "Caption": "Hello Ryley, How about MrSpicy Chips. They’re a great reward for adventurers like you.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_MrSpicy_3",
+    "TrackName": "PeeperLoungeBar_MrSpicy_3",
+    "Caption": "Hello Ryley, How about MrSpicy Chips. Only for the strong and the brave.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_MrSpicy_4",
+    "TrackName": "PeeperLoungeBar_MrSpicy_4",
+    "Caption": "Hello Ryley, Would you like MrSpicy Chips? Only for the strong and the brave.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_MrSpicy_5",
+    "TrackName": "PeeperLoungeBar_MrSpicy_5",
+    "Caption": "Hello Ryley, Would you like MrSpicy Chips? They’re a great reward for adventurers like you.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_MrSpicy_6",
+    "TrackName": "PeeperLoungeBar_MrSpicy_6",
+    "Caption": "Hello Ryley, Would you like some MrSpicy Chips? Your taste buds will be screaming in delight.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_MrSpicy_7",
+    "TrackName": "PeeperLoungeBar_MrSpicy_7",
+    "Caption": "Hello Ryley, You look like you could use some MrSpicy Chips. Your taste buds will be screaming in delight.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_MrSpicy_8",
+    "TrackName": "PeeperLoungeBar_MrSpicy_8",
+    "Caption": "Hello Ryley, You look like you could use MrSpicy Chips. They’re a great reward for adventurers like you.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_MrSpicy_9",
+    "TrackName": "PeeperLoungeBar_MrSpicy_9",
+    "Caption": "Hello Ryley, You look like you could use MrSpicy Chips. Only for the strong and the brave.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_AN_1",
+    "TrackName": "PeeperLoungeBar_AN_1",
+    "Caption": "Hello Ryley, Would you like an Alterra Nutrient Pouch? So tasty and nutritious.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_MrSpicyPop_1",
+    "TrackName": "PeeperLoungeBar_MrSpicyPop_1",
+    "Caption": "Hello Ryley, Would you like some MrSpicy Pop? Wake up those taste buds and the rest of you too.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_HC_1",
+    "TrackName": "PeeperLoungeBar_HC_1",
+    "Caption": "Hello Ryley, Would you like some Extra Hot Coffee? It’s proof that Alterra Corp loves us and wants us to be happy.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_FOS_1",
+    "TrackName": "PeeperLoungeBar_FOS_1",
+    "Caption": "Hello Ryley, Would you like an FCS Orange Soda? It’s made with real True-Natural synthetic oranges.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_PW_1",
+    "TrackName": "PeeperLoungeBar_PW_1",
+    "Caption": "Hello Ryley, Would you like some Peeper Whiskey? It’s a great treat after a long day.",
+    "IsRandom": true
+  },
+  {
+    "Key": "PLB_AS_1",
+    "TrackName": "PeeperLoungeBar_AS_1",
+    "Caption": "Hello Ryley, Would you like an Alterra Scotch? Hey, you earned it.",
+    "IsRandom": true
+  }
+]
