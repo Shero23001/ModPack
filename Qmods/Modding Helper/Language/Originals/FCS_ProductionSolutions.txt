@@ -1,0 +1,96 @@
+﻿APS_Scan:SCAN
+APS_Stop:STOP
+APS_PressKeyToOperate:Press {0} to activate or deactivate {1}.
+APS_ToggleLight:Light Toggle
+APS_ToggleLightDesc:Click to turn the harvester light on and off
+APS_HHBackButton:Back
+APS_HHBackButtonDesc:Go back to the Hydroponic Harvester home screen
+APS_PowerUsagePerSecondFormat:Power Usage Per Second : {0}
+APS_GenerationTimeFormat:Generation Time : {0}
+APS_MatterAnalyzerHasItems:Please cancel the scan to deconstruct the matter analyzer.
+APS_PleaseClearReplicatorSlot:Please clear the replicator slot before trying to replicate another item.
+APS_PleaseEmptyHarvesterSlot:Harvester slot not empty. Please remove all items before trying to clear.
+APS_PleaseClearHarvesterSlot:Please clear the harvester slot before trying to select another item.
+APS_NotBuildOnBase:Base not found. Please build on/in a base
+APS_HarvesterSpeedToggle:Speed Switch
+APS_HarvesterSpeedToggleDesc:Changes the rate of sample replication. Stages: OFF|MIN|LOW|HIGH|MAX
+APS_HarvesterAddSample:Sample Selector Page
+APS_HarvesterAddSampleDesc:Opens the dialog that allows you to choose a sample for this slot
+APS_HarvesterDeleteSample:Remove Sample
+APS_HarvesterDeleteSampleDesc:Clears this slot. (Slot must be empty to clear or long press to force clear.)
+APS_AutocrafterItemIsBeingCrafted:Cannot deconstruct because AutoCrafter is currently crafting an item.
+APS_AutocrafterItemsOnBelt:Cannot deconstruct because there are items on the belt.
+APS_CannotSetStandByHasConnections:Standby cannot be set due to this crafter already having connections to other crafters:{0}
+APS_FilterPageInformation:Filter: {0} | Black List: {1} | Enabled Filters Count : {2}
+APS_ClearSlotLongPress:Are you sure you would like to clear this slot? (All items will be destroyed)
+APS_AutocrafterStandbyTxt:Assist Mode Enabled. \n\nParent Crafter: {0}
+APS_AutocrafterHoverInformation:Assist Mode Enabled: {0} | Continuous Mode: {1} | Is Limited {2} | {3}
+APS_CraftAmount:Craft Amount: {0} | {1}
+HydroponicHarvester:Hydroponic Harvester
+Tooltip_HydroponicHarvester:3 chambers for growing DNA Samples scanned by the Matter Analyzer. Suitable for interior and exterior use.
+Replicator:Replicator
+Tooltip_Replicator:Duplicates non-living material scanned by the Matter Analyzer.
+MatterAnalyzer:Matter Analyzer
+Tooltip_MatterAnalyzer:Builds detailed scans of seeds and non-living material for duplication in the Hydroponic Harvester and Replicator
+Sand_DD:Sand
+Tooltip_Sand_DD:Sand can be used to make glass.
+FCSGlass:Sand Infused Glass
+Tooltip_FCSGlass:SiO2. Pure fused sand glass.
+DeepDrillerMk3:Deep Driller Heavy Duty
+Tooltip_DeepDrillerMk3:Heavy Duty Automated drill platform suitable for all biomes with integrated solar and thermal generators. Requires lubricant.
+DD_Stop:STOP
+DD_ItemNotAllowed:Cannot place this item in here.
+DD_OnlyPowercellsAllowed:Only powercells are allowed.
+DD_NextPage:Next Page
+DD_PrevPage:Previous Page
+DD_ItemsButton:Go to inventory page.
+DD_ProgrammingButton:Go to programming page.
+DD_SettingsButton:Go to settings page.
+DD_TakeFormatted:Take {0}
+DD_OilTankNotEmptyFormat:Cannot add anymore lubricant at this time try again in {0} minutes
+DD_OilTankDropContainerTitle:Lubricant Tank Dump Receptacle.
+DD_PowercellDumpContainerTitle:PowerCell Draining Receptacle.
+DD_AddProgramButton:Add a upgrade function to the drill.
+DD_InvalidFunctionFormat:Invalid Function: {0}. This function doesn't exist please check the documentation.
+DD_InvalidClassFormat:Invalid Class: {0}. This class doesn't exist please check the documentation.
+DD_IncorrectParameterFormat:Incorrect type in parameter expected: {0} ex: ({1};) .
+DD_IncorrectAmountOfParameterFormat:Incorrect amount of parameters expected {0} got {1}.
+DD_NotOreErrorFormat:TechType {0} is not an ore.
+DD_FilterButton:Toggle Filters.
+DD_FilterButtonDesc:With filters enabled the drill will only drill the checked items, with filters disabled all items in the list will be drilled.
+DD_ToggleRangeButtonToolTip:Show/Hide Range
+DD_ExportToggleButtonToolTip:Toggle export to Alterra Storage.
+DD_AddLubricantButtonToolTip:Add lubricant to drill.
+DD_AddPowerButtonToolTip:Add power to drill.
+DD_PowercellDrainButtonToolTip:Add power from draining powercells.
+DD_LubeRefillButtonToolTip:Refill lubricant tank.
+DD_LubeRefillButtonDescToolTip:Refill lubricant tank for the drill to use for operation.
+DD_AlterraStorageButtonToolTip:Change Alterra Storage connection settings.
+DD_GoToHomeToolTip:Go to home page.
+DD_GoToSettingsToolTip:Go to settings page.
+DD_BlackListToggleToolTip:Blacklist Toggle.
+DD_BlackListDesc:While in whitelist mode all checked items will be allowed in the drill, while in blacklist mode checked items will not be allowed. Blacklist Enabled: {0}.
+DD_AlterraStorageToggleToolTip:Alterra Storage toggle.
+DD_AlterraStorageToggleDesc:Toggles whether  the driller exports its items to a nearby Alterra Storage.
+DD_AlterraStorageRangeToggleToolTip:Alterra Storage Range Viewer Toggle.
+DD_AlterraStorageRangeToggleDesc:Toggles the range ring that show the search radius for nearby Alterra Storage.
+DD_RemoveAllItems:Deep Driller is not empty please remove all items to deconstruct.
+DD_ProgrammingAddBTNDesc:Allows you to add more functionality to your drill with functions.
+DD_ProgrammingTemplateBTN:Programming Templates.
+DD_ProgrammingTemplateBTNDesc:Shows all available functions the drill can use.
+DD_OresPerDay:Ores Per Day:
+DD_PowerConsumption:Power Consumption:
+DD_BiomeFormat:Current Biome: {0}
+DD_InventoryStorageFormat:INVENTORY: Items {0}/{1}
+DD_Idle:Idle
+DD_Drilling:Drilling
+DD_NoPower:No Power
+DD_NeedsOil:Lubricant Needed
+DD_DrillDeactivated:Drill Deactivated
+DD_BaseIDErrorFormat:Base {0} is either to far away or the ID is incorrect.
+DD_DrillBeaconPage:Beacon Settings Page
+DD_NoLubricantFound:No Lubricant found in player inventory.
+DeepDrillerLightDuty:Deep Driller Light Duty
+Tooltip_DeepDrillerLightDuty:Light Duty Automated drill platform suitable for all biomes. Requires lubricant and external power.
+AutoCrafter:Auto Crafter
+Tooltip_AutoCrafter:Avoid long hours in front of the Fabricator. Program a limited run of items or just keep yourself automatically stocked on an important one.

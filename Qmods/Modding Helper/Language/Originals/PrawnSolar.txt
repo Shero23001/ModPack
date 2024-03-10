@@ -1,0 +1,2 @@
+﻿PrawnSolarModule:Prawn solar charger
+Tooltip_PrawnSolarModule:Recharges Prawn Suit power cells in sunlight.

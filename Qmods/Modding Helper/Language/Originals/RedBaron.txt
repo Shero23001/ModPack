@@ -1,0 +1,12 @@
+﻿SeamothFlightModule:Anti-Grav Engine Upgrade
+Tooltip_SeamothFlightModule:Upgrades the Seamoth's engines to allow for limited atmospheric flight.
+SeamothManeuveringJetsModule:Maneuvering Jets
+Tooltip_SeamothManeuveringJetsModule:Upgrades the Seamoth's engines to allow for more rotational control.
+SeamothLifeSupportModule:Integrated Life Support
+Tooltip_SeamothLifeSupportModule:Installs extended life support functionality, allowing the Seamoth systems to distribute water and calories to the pilot.
+SeamothBeckonCallModule:Seamoth Beckon Call
+Tooltip_SeamothBeckonCallModule:Installs autopilot system to allow the Seamoth to be summoned to it's owner.
+BeckonCall:Beckon Call Remote
+Tooltip_BeckonCall:Summons your beckon call upgraded Seamoth.
+CyclopsFlightModule:Cyclops Anti-Grav Generators
+Tooltip_CyclopsFlightModule:Upgrades the Cyclops submersible with Anti-Gravity technology to allow for limited flight.

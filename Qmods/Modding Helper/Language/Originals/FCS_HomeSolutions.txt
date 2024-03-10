@@ -1,0 +1,253 @@
+﻿AHS_Max:MAX
+AHS_High:HIGH
+AHS_Min:MIN
+AHS_Low:LOW
+AHS_GatesOpenMessage:Gates are open cannot move.
+AHS_Save:SAVE
+AHS_SaveLevel:Save Current Level
+AHS_GoingToLevelFormat:Going to floor {0}
+AHS_FloorSelect:Selecting Floor: {0}
+AHS_HoverPadInOperation:Hover Lift Pad is in operation please unlock any prawn suit or yourself.
+AHS_UnDockPrawnSuitToEnter:Undock prawn suit to enter.
+AHS_ClickToOpen:Click to open {0}.
+AHS_NoRecyclerConnected:No Recycler connected to the base
+AHS_TrashReceptacleDumpLabel:Trash Receptacle Bin
+AHS_TrashRecyclerDumpLabel:Trash Recycler Bin
+AHS_TrashRecyclerStatusFormat:Recycling {0} Status:
+AHS_Waiting:WAITING
+AHS_TrashRecyclerStorageFormat:Storage: ({0}/{1})
+AHS_Submit:SUBMIT
+AHS_ToBaseNotEnoughPower:Destination base does not have enough power to teleport
+AHS_BaseNotEnoughPower:This base does not have enough power to teleport
+AHS_HomeNetworkToggle:Home Network
+AHS_HomeNetworkToggleDesc:Shows all available teleporters at this base.
+AHS_GlobalNetworkToggle:Global Network
+AHS_GlobalNetworkToggleDesc:Shows all available teleporters that have been set to the global network  at other bases.
+AHS_Rename:Rename
+AHS_RenameDesc:Renames this teleporter.
+AHS_AddToGlobalNetworkToggle:Add To Global Network
+AHS_AddToGlobalNetworkToggleDesc:Allows this teleporter to be visible in the global network.
+AHS_LocationFormat:Location: {0}
+AHS_GlobalNetwork:Global Network
+AHS_LocalNetwork:Local Network
+AHS_RequirementsFormat:Teleport Power Requirement: Local ({0}) / Global ({1})
+AHS_Confirm:Confirm
+AHS_Cancel:Cancel
+AHS_PowerAvailable:Power Available
+AHS_TeleportConfirmMessage:Initiate Teleportation?
+AHS_Coordinates:Coordinates
+AHS_CurtainInteractionFormat:Press {0} to change curtain pattern.
+AHS_RugInteractionFormat:Press {0} to change rug pattern.
+AHS_TeleportCanceledMessage:Something went wrong with the teleport sequence canceled operation for your safety.
+AHS_IngredientsFormat:Ingredients: {0}
+AHS_CookedFoods:Cooked Foods
+AHS_OtherFoods:Other Foods
+AHS_CuredFoods:Cured Foods
+AHS_Order:ORDER
+AHS_NothingToCook:Nothing to cook
+AHS_CookerInventoryFull:Alien Chef inventory is full canceling
+AHS_ClickToRotate:Click to rotate
+AHS_PressToToggleLight:Press {0} to toggle led light. \nPress {1}/{2} to change intensity. \nPress {3} to toggle night sensor. \nIntensity: {4} | Night Sensor: {5}
+AHS_TVFormat:Press {0} to turn on/off tv.
+AHS_TVFormat2:Press {0}/{1} for volume
+AHS_NotEnoughWaterForBottle:Not enough water for bottle please wait for 50% tank level or more
+AHS_ClickToOpenFormatted:Click to open the {0}
+AHS_ModNotEmptyFormat:Please empty {0} before trying to deconstruct.
+AHS_FailedToRecycleFormat:Failed to recycle item: {0}
+AHS_CannotDeleteLevelFormat:Cannot delete level: {0}
+AHS_DeleteLevelConfirmation:Are you sure you would like to delete level ({0})
+AHS_MovingTo:MOVING TO
+AHS_FloorLevel:FLOOR LEVEL
+AHS_QuantumPowerBankFull:Quantum Power Bank is already full
+PeeperLoungeBar:Peeper Lounge Bar
+Tooltip_PeeperLoungeBar:AI-driven specialty food and drinks kiosk with small aquarium.
+SpicyChips:MrSpicy Chips
+Tooltip_SpicyChips:Your taste buds will be screaming in delight from the very first bite of MrSpicy Chips. Get energized for the big project or running for your life on an alien planet, or celebrate your victories over even the most mundane tasks with MrSpicy Chips: an adventure in every bag.
+Z1Snacks:Z1 Snacks
+Tooltip_Z1Snacks:A Countdown to flavor and adventuring, Z1 Snacks bring out your inner intrepid adventurer. Whether you’re running toward adventure or running away because you found it, Z1 Snacks are the ideal compliment. Perfect taste on Z3...Z2...Z1 Snacks!
+NutritionPackage:Alterra Nutrient Pouch
+Tooltip_NutritionPackage:Packed with more nutrients than a momma marsupial could provide. (It’s even tastier than the packaging it comes in!)
+SpicyPop:MrSpicy Pop
+Tooltip_SpicyPop:Wake up those taste buds and the rest of you too. A delicious compliment MrSpicy chips -- IF you’re brave enough -- Spicy Pop packs a crate full of flavor in every bottle. Made with zero caffeine because who could take a nap with all that flavor on your tongue!
+ExtraHotCoffee:Extra Hot Coffee
+Tooltip_ExtraHotCoffee:Whether you’re chilled to the bone and about to die from arctic winds or just keep getting distracted by co-workers, Alterra Extra Hot Coffee will keep you going with rich taste, deep flavor, and always the right amount of cream, sugar, salt, hot chili sauce, bacon, or...whatever makes coffee great:  Alterra knows and Alterra delivers.
+FCSOrangeSoda:FCS Orange Soda
+Tooltip_FCSOrangeSoda:Ah, the simple, joyful flavor of True-Natural synthetic oranges and a little carbon-dioxide. A simple and delicious soda to sparkle the tongue and enjoy youthful memories.
+PeeperWhiskey:Peeper Whiskey
+Tooltip_PeeperWhiskey:Always a unique flavor, this special whiskey is created from uniquely local ingredients for the perfect taste of your far-away place. Specially tailored for alcoholic effects on peepers; please do not give Peeper Whiskey to underage peepers.
+AlterraScotch:Alterra Scotch
+Tooltip_AlterraScotch:An aged whisky made by a single distillery using only malted barley and water, with a complex and mellow flavor. Perfect for taking the edge off a rough day.  (Dealcoholized for your comfort and convenience and reduced chance of hangover)
+CoffeePackage:Coffee Package
+Tooltip_CoffeePackage:Freshly roasted and ground coffee beans, packed in argon gas, and three-fold wrapped in foil. You’ll swear you were standing next to the roaster when you breathe in the heady aroma of perfectly roasted coffee beans.
+CarolinaPeeperBalls:Carolina Peeper Balls
+Tooltip_CarolinaPeeperBalls:Peeper Balls, Caroline style. Ingredients: Sugar, Gum Base, Carolina Reaper Peppers, Balls of Peeper (make of that what you will), Carnauba Wax, Corn Starch, Artificial Flavors and Colors. Scoville Heat Units: ERRNumericOverflow.
+AlterraCoffeeMug:Alterra Coffee (Mug)
+Tooltip_AlterraCoffeeMug:Coffee… Delicious, sumptuous coffee. Proof Alterra Corporation  loves us and wants us to be happy.
+FCSCoffeeMug:FCS Coffee (Mug)
+Tooltip_FCSCoffeeMug:Coffee… Delicious, sumptuous coffee. Proof FCStudios loves us and wants us to be happy.
+MrSpicyCoffeeMug:MrSpicy Coffee (Mug)
+Tooltip_MrSpicyCoffeeMug:Coffee… Delicious, sumptuous coffee. Proof MrSpicy loves us and wants us to be happy.
+Z1GamingCoffeeMug:Z1 Gaming Coffee (Mug)
+Tooltip_Z1GamingCoffeeMug:Coffee… Delicious, sumptuous coffee. Proof Z1 Gaming  loves us and wants us to be happy.
+MonikaCinnyRollCoffeeMug:Monika C.R. Coffee (Mug)
+Tooltip_MonikaCinnyRollCoffeeMug:Coffee… Delicious, sumptuous coffee. Proof Monkia CinnyRoll loves us and wants us to be happy.
+AlterraCoffeeMug02:Alterra Coffee (Mug) 2
+Tooltip_AlterraCoffeeMug02:Delicious, sumptuous coffee. Proof Alterra Corporation loves us and wants us to be happy.
+PeeperCoffeeMug:Peeper Coffee (Mug)
+Tooltip_PeeperCoffeeMug:Delicious, sumptuous coffee. Proof the Alterra omniLounge Artificial Intelligence loves us and wants us to be happy.
+NeonPlanter:Neon Planter
+Tooltip_NeonPlanter:Indoor planter to grow your favorite things
+MiniFountainFilter:Mini Filter & Fountain
+Tooltip_MiniFountainFilter:Small, wall-mounted water filtration system for your base or cyclops
+MFF_OnHover:On Hover
+MFF_UnitNotEmpty:One or both of the container are not empty.
+MFF_StorageLabel:Mini Filter & Fountain Receptacle
+MFF_BottleKey:Bottle(s)
+Seabreeze:Seabreeze
+Tooltip_Seabreeze:Refrigeration unit for perishable food and cool, refreshing water.
+OnSeabreezeHover:Add to SeaBreeze
+SeaBreezeStorage:SeaBreeze Receptacle
+SeaBreezeNoPower:Insufficient power
+FCSWorkBenechErrorMessage:FCS Tech Workbench Mod not found please install.
+SeaBreezeFull:SeaBreeze is full and cannot add anymore items.
+ItemNotAllowed:Food items allowed only.
+SB_Items:Item/s
+SB_EditName:Edit Seabreeze Name
+SB_ColorPicker:Color Picker
+SB_GoHome:Home
+SB_PowerBTNMessage:Power Button
+SB_DumpButton:Open Seabreeze
+SB_FoodCButton:Food Items
+SB_WaterCButton:Water Items
+SB_TrashButton:Trash
+SB_TrashMessage:All rotten food will be moved here
+SB_NotEmpty:SeaBreeze is not empty cannot destroy!.
+SB_NoPower:POWERED OFF
+SB_DumpMessage:Add items to the seabreeze
+SB_TakeItem:Take {0}
+PaintTool:Alterra Paint Tool
+Tooltip_PaintTool:Change the color of Primary and Secondary surfaces, and LED lights (requires Paint Can). Only suitable for Alterra FCStudios products.
+PaintCan:Paint Can
+Tooltip_PaintCan:Plug into your Paint Tool to color FCStudios Appliances, Furniture, Machines, and LED Lights
+FireExtinguisherRefueler:Fire Extinguisher Refueler
+Tooltip_FireExtinguisherRefueler:Keep your habitat safe! Holds and recharges Fire Extinguishers. Wall-mounted.
+TrashReceptacle:Trash Receptacle
+Tooltip_TrashReceptacle:Use the Trash Receptacle to quickly send your trash to the recycler from the inside of your base
+Recycler:Recycler
+Tooltip_Recycler:Recycle your trash and get your resources back
+Curtain:Curtain
+Tooltip_Curtain:Get a little privacy from all those fish staring at you or block out the sun so you can sleep in.
+QuantumTeleporter:Quantum Teleporter
+Tooltip_QuantumTeleporter:Teleport to other Quantum Teleporter units inside your base or to an entirely different base.
+QuantumPowerBank:Quantum Power Bank
+Tooltip_QuantumPowerBank:Energy source for away-from-base Quantum Teleportation via the FCStudios PDA. Holds enough energy for 2 personal or 1 vehicle Teleport.
+QuantumPowerBankCharger:Quantum Power Bank Charger
+Tooltip_QuantumPowerBankCharger:Charge your Quantum Power Banks with raw power and those extra ion cubes you have laying around.
+QuantumTeleporterVehiclePad:Quantum Teleporter Vehicle Pad
+Tooltip_QuantumTeleporterVehiclePad:Creates a Quantum Teleportation destination when teleporting a vehicle via the FCStudios PDA.
+FCSStove:Stove
+Tooltip_FCSStove:Cook a simple meal or an entire banquet
+FCSShower:Shower
+Tooltip_FCSShower:A shower for convenient hygiene.
+Elevator:Elevator
+Tooltip_Elevator:Get from one elevation to the next with ease. Even bring your PRAWN suit along so you don’t get lonely.
+FCSSink:Sink
+Tooltip_FCSSink:A Sink for convenient hygiene.
+FCSJukebox:Jukebox
+Tooltip_FCSJukebox:Wall-mounted Alterra Jukebox. Plays your favorite music to help you develop a relaxed attitude toward danger.
+FCSJukeboxSpeaker:Jukebox Speaker
+Tooltip_FCSJukeboxSpeaker:Wall-mounted satellite speaker for the Alterra Jukebox so you can take your relaxed attitude toward danger anywhere inside your base.
+FCSJukeBoxSubWoofer:Jukebox Sub Woofer
+Tooltip_FCSJukeBoxSubWoofer:Floor-mounted satellite Subwoofer for the Alterra Jukebox so your relaxed attitude toward danger can vibrate the air in your lungs anywhere inside your base.
+FCSStairs:Hatch Stairway
+Tooltip_FCSStairs:Convenient stairs to help you get to the high hatches. Build on a hatch and watch me grow.
+HologramPoster:Hologram Poster
+Tooltip_HologramPoster:Wall mounted holographic poster frame.
+pccpu:Computer CPU
+Tooltip_pccpu:Suitable for all your local computing needs with festive local flare.
+pcmonitor:Computer Monitor
+Tooltip_pcmonitor:Suitable for keeping an eye on your Alterra Computer CPU.
+wallSign:Wall Sign
+Tooltip_wallSign:Wall-mounted sign, suitable for use indoors. Requires a wall.
+outsideSign:Outside Sign
+Tooltip_outsideSign:Freestanding sign, suitable for outside use.
+tableSmartTV:Smart TV With Table Mount
+Tooltip_tableSmartTV:Take a little break and watch some TV. Includes Table Mount.
+mountSmartTV:Smart TV With Wall Mount
+Tooltip_mountSmartTV:Take a little break and watch some TV. Includes Wall Mount.
+ahsrailing:Railing
+Tooltip_ahsrailing:An external railing to create a safety barrier.
+ahsrailingglass:Railing With Glass
+Tooltip_ahsrailingglass:An external railing to create a safety barrier.
+ahsLeftCornerRailing:Railing Left Corner
+Tooltip_ahsLeftCornerRailing:An external railing to create a safety barrier.
+ahsLeftCornerwGlassRailing:Railing Left Corner wGlass
+Tooltip_ahsLeftCornerwGlassRailing:An external railing to create a safety barrier.
+ahsRightCornerRailing:Railing Right Corner
+Tooltip_ahsRightCornerRailing:An external railing to create a safety barrier.
+ahsRightCornerwGlassRailing:Railing Right Corner wGlass
+Tooltip_ahsRightCornerwGlassRailing:An external railing to create a safety barrier.
+floorShelf01:Floor Shelf 1
+Tooltip_floorShelf01:Don’t put your things on the floor, put them on this lovely shelf!
+floorShelf02:Floor Shelf 2
+Tooltip_floorShelf02:Don’t put your things on the floor, put them on this lovely shelf!
+floorShelf03:Floor Shelf 3
+Tooltip_floorShelf03:Don’t put your things on the floor, put them on this lovely shelf!
+floorShelf04:Floor Shelf 4
+Tooltip_floorShelf04:Don’t put your things on the floor, put them on this lovely shelf!
+floorShelf05:Floor Shelf 5
+Tooltip_floorShelf05:Don’t put your things on the floor, put them on this lovely shelf!
+floorShelf06:Floor Shelf 6
+Tooltip_floorShelf06:Don’t put your things on the floor, put them on this lovely shelf!
+floorShelf07:Floor Shelf 7
+Tooltip_floorShelf07:Don’t put your things on the floor, put them on this lovely shelf!
+neonShelf01:Neon Shelf 01
+Tooltip_neonShelf01:A shelf with neon lights. (Paint Tool Recommended)
+neonShelf02:Neon Shelf 02
+Tooltip_neonShelf02:A shelf with neon lights. (Paint Tool Recommended)
+neonShelf03:Neon Shelf 03
+Tooltip_neonShelf03:A shelf with neon lights. (Paint Tool Recommended)
+neonTable01:Neon Table 01
+Tooltip_neonTable01:A table with neon lights. (Paint Tool Recommended)
+neonTable02:Neon Table 02
+Tooltip_neonTable02:A table with neon lights. (Paint Tool Recommended)
+FCSRug:Rug
+Tooltip_FCSRug:A stylish rug from the corporation that loves you. Requires floor.
+LedLightStickLong:Long LED Light Stick
+Tooltip_LedLightStickLong:A long LED light stick, suitable for interior and exterior use. (Change the color with the Paint Tool)
+LedLightStickShort:Short LED Light Stick
+Tooltip_LedLightStickShort:A short LED light stick, suitable for interior and exterior use. (Change the color with the Paint Tool)
+LedLightStickWall:Wall Mountable LED Light Strip
+Tooltip_LedLightStickWall:A wall mountable LED light strip. (Change the color with the Paint Tool) (Interior use only)
+FloodLEDLight:LED Flood Light
+Tooltip_FloodLEDLight:A Flood Light for wide area illumination, suitable for exterior use. (Change the color with the Paint Tool)
+RingLight:Ring Light
+Tooltip_RingLight:Elegant interior light, suitable for interior tables, shelves, or stands. (Change the color with the Paint Tool)
+CabinetWide:Wide Floor Cabinet
+Tooltip_CabinetWide:A stylish furniture piece for storage and decoration
+CabinetMediumTall:Medium Vertical Cabinet
+Tooltip_CabinetMediumTall:A stylish furniture piece for storage and decoration
+CabinetTall:Tall Vertical Cabinet
+Tooltip_CabinetTall:A stylish furniture piece for storage and decoration
+CabinetTVStand:Cabinet T.V Stand
+Tooltip_CabinetTVStand:A stylish furniture piece for storage and decoration
+FCSCrewLocker:Crew Locker
+Tooltip_FCSCrewLocker:A stylish furniture piece for storage and decoration
+Sofa1:Sofa 1
+Tooltip_Sofa1:Don’t put butt on the floor, put it on this comfy people-shelf!
+Sofa2:Sofa 2
+Tooltip_Sofa2:Don’t put butt on the floor, put it on this comfy people-shelf!
+Sofa3:Sofa 3
+Tooltip_Sofa3:Don’t put butt on the floor, put it on this comfy people-shelf!
+NeonBarStool:Neon Bar Stool
+Tooltip_NeonBarStool:Companion seating for the Peeper Lounge. Seatbelt not included.
+FCSToilet:Toilet
+Tooltip_FCSToilet:A simple toilet for convenient hygiene. (Privacy not included)
+fcsmicrowave:Microwave
+Tooltip_fcsmicrowave:Heat up a quick snack in seconds!
+fcsCuringCabinet:Curing Cabinet
+Tooltip_fcsCuringCabinet:Take your meals with you. Quickly cooks and cures several meals.
+FCSCrewBunkBed:Crew Bunk Bed
+Tooltip_FCSCrewBunkBed:Bunk Bed suitable for small quarters or communal sleeping quarters. Services 2 crew members.
+DisplayBoard:Display Board
+Tooltip_DisplayBoard:Get information about your base with these lovely overhead displays.

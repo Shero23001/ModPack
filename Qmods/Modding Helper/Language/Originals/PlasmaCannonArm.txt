@@ -1,0 +1,2 @@
+﻿ExosuitPlasmaCannonArmModule:P.R.A.W.N Plasma Cannon Arm
+Tooltip_ExosuitPlasmaCannonArmModule:Allows P.R.A.W.N suit to firing small plasma bullets.

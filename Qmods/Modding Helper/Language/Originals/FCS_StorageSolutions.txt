@@ -1,0 +1,62 @@
+﻿ASS_OpenAlterraStorage:Open Remote Storage
+ASS_AlterraStorageDumpContainerTitle:Alterra Storage
+ASS_TakeFormat:Take {0}
+ASS_StorageAmountFormat:{0}/{1} Items
+ASS_OpenServerRack:Open Server Rack
+ASS_CloseServerRack:Close Server Rack
+ASS_AddItemToItemDisplay:Add Item
+ASS_AddItemToItemDisplayDesc:Click to add an item to the display to should the quantity in the system
+ASS_NoItemToTake:Please choose an item to display and extract from the network.
+ASS_AddItemToNetwork:Add item/s to base
+ASS_AddItemToNetworkDesc:Allows you to add items to your Data Storage network.
+ASS_Reset:Reset.
+ASS_ItemDisplayResetDesc:Resets the item display so you can choose another item to display.
+ASS_RackCountFormat:Racks:{0}
+ASS_ServerCountFormat:Servers:{0}
+ASS_TotalItemFormat:Total Items:{0}/{1}
+ASS_TotalItemFormat2:Total Items:{0}
+ASS_Rename:Rename
+ASS_RenameDesc:Rename this base's name.
+ASS_GlobalNetwork:Global Network
+ASS_Multiplier:Multiplier
+ASS_MultiplierDesc:Allows you to extract more with one click.
+ASS_SearchItem:Search item...
+ASS_RackNotEmpty:Cannot deconstruct rack is not empty.
+ASS_AddServer:Add Server
+ASS_AddServerDesc:Add server to formatting station to add filters.
+ASS_FilterItemName:Item: {0}
+ASS_FilterCategoryName:Category: {0}
+ASS_MoonpoolSettings:Moonpool Settings
+ASS_AddToBlackList:Add item to blacklist
+ASS_CraftFormatted:Add {0} to queue
+ASS_EnterAmount:Enter Amount
+ASS_AmountIsZero:{0} entry amount is 0 please specify ab amount.
+ASS_CurrentBase:[Current Base]
+ASS_RemoteBase:[Remote Base]
+ASS_IsFormatted:Is Formatted:
+ASS_Filters:Filters:
+ASS_PowerButton:Power Button
+ASS_RenameRemoteStorage:Rename this remote storage
+ASS_OpenItemTransferUnit:Click to Add/Remove connections  between this base and devices
+ASS_PleaseSelectAnItemToCraft:Please select an item to craft by clicking the (?).
+ASS_MaxTransceiverOperations:Cannot add anymore operations for the transceiver. Please add another transceiver to your base
+ASS_AllItemsNotAvailableToCraft:There are missing ingredients!\n  Please check (Requirements Not Met Section) on the crafter. The crafter will try to craft the missing requirements. Please check crafters constantly to make sure it hasnt become stuck due to missing items.
+ASS_DiskEjectButton:Press the eject button to remove the disk.
+ASS_DiskConfigButton:Press the gear to add filters and change disk name.
+ASS_TransceiversCantFilter:Invalid Action: Transceivers cannot accept filters
+AlterraStorage:Remote Storage Unit
+Tooltip_AlterraStorage:Freestanding storage unit for 200 items. Suitable for interior and exterior use. Can be used to receive ores directly from an automated drill platform if in range.
+DSSServer:Data Disk
+Tooltip_DSSServer:Data Storage for 48 items, formatted to accept all item categories. Place in a Wall Server Rack or Floor Server Rack to connect to Data Storage Network.
+DSSItemDisplay:Terminal S23
+Tooltip_DSSItemDisplay:Small, single-item access terminal for the Data Storage Network. Now with multi-item deposit capability.
+DSSTerminalMonitor:Terminal C48
+Tooltip_DSSTerminalMonitor:Data Storage Control Terminal. Deposit and Withdraw items, automatically unload vehicles, and access the Data Storage Networks at other habitats and cyclops on the Global Network.
+DSSAntenna:Antenna
+Tooltip_DSSAntenna:An antenna connects your habitat’s Data Storage System to the Global Data Storage Network of habitats (with antennae) and cyclops (built-in antennae).
+DSSWallServerRack:Wall Server Rack
+Tooltip_DSSWallServerRack:Holds 6 Data Storage Servers. Requires a wall.
+DSSFloorServerRack:Floor Server Rack
+Tooltip_DSSFloorServerRack:Holds 20 Data Storage Disks. Requires a floor.
+DSSTransceiver:Transceiver
+Tooltip_DSSTransceiver:Move items between the Data Storage Network and compatible Units and Devices. Requires Server Rack.

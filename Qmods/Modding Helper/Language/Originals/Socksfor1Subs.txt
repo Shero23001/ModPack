@@ -1,0 +1,50 @@
+﻿DadSub:D.A.D. Submersible
+Tooltip_DadSub:The Deepsea Aquatic Defense Submersible is a large vehicle designed for hosting stealth-based attacks in dangerous environments. Powered by the solar energy, but thermal plants can be built on top.
+SockTank:S.O.C.K. Tank
+Tooltip_SockTank:Subaquatic Operations and Combat Kit Tank. Small, heavily armored vehicle designed to conquer dangerous underwater environments. Equipped with various utilities for both offensive and defensive capabilities.
+DadSubBed:Cozy Bed
+Tooltip_DadSubBed:Sleepy time.
+DadHolographicDecoy:Holographic decoy activated.
+DadHostileLifeform:Warning: Hostile lifeform detected.
+DadHullDamage:External hull damage detected.
+DadPassingSafeDepth:Attention: Passing safe depth.
+DadStealthDisabled:Cloaking apparatus overheating! Stealth mode disengaged.
+DadStealthEnabled:Stealth mode engaged.
+DadStealthReady:Stealth mode ready for operation.
+DadWelcomeAboard:Welcome aboard captain. D.A.D. Submersible online and ready for operation.
+DadEmergencyPower:Emergency power only. Oxygen production offline.
+DadEngineOn:Engine powering up...
+DadHullFailureImminent:Warning: Hull failure imminent.
+DadWelcomeNegative:Welcome aboard captain. Some systems need attention.
+DadWelcomeSecret:You aren't the worst captain on the planet. I'm not even salty.
+TankHullDamage:Caution: Major hull damage sustained.
+TankHullIntegrityCritical:Warning: Hull integrity critical!
+TankNoPower:Emergency power only. All primary systems offline.
+TankWelcome:Welcome aboard captain. S.O.C.K. Submersible Tank ready for deployment.
+TankNoTorpedoes:Torpedo reserve depleted.
+TankKill1:Target eliminated.
+TankKill2:Hostile down.
+TankKill3:Bullseye.
+TankKill4:Target destroyed.
+TankKill5:Target annihilated.
+TankKill6:Specimen destroyed.
+TankKill7:It's not personal, just business.
+TankKill8:I'm sorry, did you want that fish?
+TankKillLeviathan1:Target no longer a threat.
+TankKillLeviathan2:Threat level neutralized.
+TankKillLeviathan3:Threat neutralized.
+TankKillLeviathan4:It's not personal, just business.
+TankFriendlyFire1:Please excercise caution when firing torpedoes.
+TankFriendlyFire2:I can't believe you just did that.
+TankFriendlyFire3:User error detected.
+TankUserError:User error detected.
+TankTorpedoControl:Fire torpedo: {0}
+TankTorpedoAltFire:Fire torpedo: {0}
+TankHarpoonControlFire:Launch harpoon: {0}
+TankHarpoonControlCancelReel:Lock harpoon: {0}
+TankHarpoonControlReel:Reel in harpoon: Release {0}
+TankHarpoonCutCable:Detach cable: {0}
+TankControlGeneric:Use weapon: {0}
+TankControlDisplay2:Activate boost: {0}
+TankControlDisplay3:Switch primary: {0}
+TankControlDisplay4:Switch view: {0}

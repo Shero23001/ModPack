@@ -1,0 +1,4 @@
+﻿ConstructorMenu_Platforms:Platforms
+HabitatPlatform:Habitat Platform
+Tooltip_HabitatPlatform:Floating platform that can be used for building habitats.
+HabitatPlatform.ids_platformsNode:Platforms

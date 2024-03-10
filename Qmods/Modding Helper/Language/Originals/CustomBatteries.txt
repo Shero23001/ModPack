@@ -1,0 +1,2 @@
+﻿FabricatorMenu_BatteryTab:Batteries
+FabricatorMenu_PowCellTab:Power Cells

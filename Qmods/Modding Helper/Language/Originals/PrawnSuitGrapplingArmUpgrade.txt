@@ -1,0 +1,2 @@
+﻿GrapplingArmUpgradeModule:Prawn suit grappling arm MK2
+Tooltip_GrapplingArmUpgradeModule:Enhances various parameters of grappling arm.

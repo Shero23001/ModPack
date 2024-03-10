@@ -1,0 +1,10 @@
+﻿{
+  "Id": "PlasmaCannonArm",
+  "DisplayName": "Plasma Cannon Arm",
+  "Author": "Senna",
+  "Version": "1.2",
+  "Dependencies": ["SMLHelper"], 
+  "Enable": true,
+  "Game": "Subnautica",
+  "AssemblyName": "PlasmaCannonArm.dll"
+}

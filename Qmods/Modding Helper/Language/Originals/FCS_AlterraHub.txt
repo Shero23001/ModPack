@@ -1,0 +1,278 @@
+﻿AlterraGen_Kit:Alterra Gen Kit
+Tooltip_AlterraGen_Kit:A kit that allows you to build one Alterra Gen Unit
+AlterraSolarCluster_Kit:Alterra Solar Cluster Kit
+Tooltip_AlterraSolarCluster_Kit:A kit that allows you to build one Alterra Solar Cluster Unit
+JetStreamT242_Kit:JetStreamT242 Kit
+Tooltip_JetStreamT242_Kit:A kit that allows you to build one JetStreamT242 Unit
+TelepowerPylon_Kit:Telepower Pylon Kit
+Tooltip_TelepowerPylon_Kit:A kit that allows you to build one Telepower Pylon Unit
+PowerStorage_Kit:PowerStorage Kit
+Tooltip_PowerStorage_Kit:A kit that allows you to build one PowerStorage Unit
+UniversalCharger_Kit:Universal Charger Kit
+Tooltip_UniversalCharger_Kit:A kit that allows you to build one Universal Charger Unit
+WindSurferOperator_Kit:Wind Surfer Operator Kit
+Tooltip_WindSurferOperator_Kit:A kit that allows you to build one Wind Surfer Operator Unit
+WindSurfer_Kit:Wind Surfer Kit
+Tooltip_WindSurfer_Kit:A kit that allows you to build one Wind Surfer Unit
+WindSurferPlatform_Kit:Wind Surfer Platform Kit
+Tooltip_WindSurferPlatform_Kit:A kit that allows you to build one Wind Surfer Platform Unit
+EnergyPillVendingMachine_Kit:Energy Pill Vending Machine Kit
+Tooltip_EnergyPillVendingMachine_Kit:A kit that allows you to build one Energy Pill Vending Machine Unit
+MiniMedBay_Kit:Mini Med Bay Kit
+Tooltip_MiniMedBay_Kit:A kit that allows you to build one Mini Med Bay Unit
+BaseUtilityUnit_Kit:Base Utility Unit Kit
+Tooltip_BaseUtilityUnit_Kit:A kit that allows you to build one Base Utility Unit Unit
+BaseOxygenTank_Kit:Base Oxygen Tank Kit
+Tooltip_BaseOxygenTank_Kit:A kit that allows you to build one Base Oxygen Tank Unit
+AlterraStorage_Kit:Remote Storage Unit Kit
+Tooltip_AlterraStorage_Kit:A kit that allows you to build one Remote Storage Unit Unit
+DSSItemDisplay_Kit:Terminal S23 Kit
+Tooltip_DSSItemDisplay_Kit:A kit that allows you to build one Terminal S23 Unit
+DSSTerminalMonitor_Kit:Terminal C48 Kit
+Tooltip_DSSTerminalMonitor_Kit:A kit that allows you to build one Terminal C48 Unit
+DSSAntenna_Kit:Antenna Kit
+Tooltip_DSSAntenna_Kit:A kit that allows you to build one Antenna Unit
+DSSWallServerRack_Kit:Wall Server Rack Kit
+Tooltip_DSSWallServerRack_Kit:A kit that allows you to build one Wall Server Rack Unit
+DSSFloorServerRack_Kit:Floor Server Rack Kit
+Tooltip_DSSFloorServerRack_Kit:A kit that allows you to build one Floor Server Rack Unit
+HydroponicHarvester_Kit:Hydroponic Harvester Kit
+Tooltip_HydroponicHarvester_Kit:A kit that allows you to build one Hydroponic Harvester Unit
+Replicator_Kit:Replicator Kit
+Tooltip_Replicator_Kit:A kit that allows you to build one Replicator Unit
+MatterAnalyzer_Kit:Matter Analyzer Kit
+Tooltip_MatterAnalyzer_Kit:A kit that allows you to build one Matter Analyzer Unit
+DeepDrillerMk3_Kit:Deep Driller Heavy Duty Kit
+Tooltip_DeepDrillerMk3_Kit:A kit that allows you to build one Deep Driller Heavy Duty Unit
+DeepDrillerLightDuty_Kit:Deep Driller Light Duty Kit
+Tooltip_DeepDrillerLightDuty_Kit:A kit that allows you to build one Deep Driller Light Duty Unit
+AutoCrafter_Kit:Auto Crafter Kit
+Tooltip_AutoCrafter_Kit:A kit that allows you to build one Auto Crafter Unit
+PeeperLoungeBar_Kit:Peeper Lounge Bar Kit
+Tooltip_PeeperLoungeBar_Kit:A kit that allows you to build one Peeper Lounge Bar Unit
+NeonPlanter_Kit:Neon Planter Kit
+Tooltip_NeonPlanter_Kit:A kit that allows you to build one Neon Planter Unit
+MiniFountainFilter_Kit:Mini Filter & Fountain Kit
+Tooltip_MiniFountainFilter_Kit:A kit that allows you to build one Mini Filter & Fountain Unit
+Seabreeze_Kit:Seabreeze Kit
+Tooltip_Seabreeze_Kit:A kit that allows you to build one Seabreeze Unit
+PaintTool_Kit:Alterra Paint Tool Kit
+Tooltip_PaintTool_Kit:A kit that allows you to build one Alterra Paint Tool Unit
+FireExtinguisherRefueler_Kit:Fire Extinguisher Refueler Kit
+Tooltip_FireExtinguisherRefueler_Kit:A kit that allows you to build one Fire Extinguisher Refueler Unit
+TrashReceptacle_Kit:Trash Receptacle Kit
+Tooltip_TrashReceptacle_Kit:A kit that allows you to build one Trash Receptacle Unit
+Recycler_Kit:Recycler Kit
+Tooltip_Recycler_Kit:A kit that allows you to build one Recycler Unit
+Curtain_Kit:Curtain Kit
+Tooltip_Curtain_Kit:A kit that allows you to build one Curtain Unit
+QuantumTeleporter_Kit:Quantum Teleporter Kit
+Tooltip_QuantumTeleporter_Kit:A kit that allows you to build one Quantum Teleporter Unit
+QuantumPowerBankCharger_Kit:Quantum Power Bank Charger Kit
+Tooltip_QuantumPowerBankCharger_Kit:A kit that allows you to build one Quantum Power Bank Charger Unit
+QuantumTeleporterVehiclePad_Kit:Quantum Teleporter Vehicle Pad Kit
+Tooltip_QuantumTeleporterVehiclePad_Kit:A kit that allows you to build one Quantum Teleporter Vehicle Pad Unit
+FCSStove_Kit:Stove Kit
+Tooltip_FCSStove_Kit:A kit that allows you to build one Stove Unit
+FCSShower_kit:Shower Kit
+Tooltip_FCSShower_kit:A kit that allows you to build one Shower Unit
+Elevator_Kit:Elevator Kit
+Tooltip_Elevator_Kit:A kit that allows you to build one Elevator Unit
+FCSSink_kit:Sink Kit
+Tooltip_FCSSink_kit:A kit that allows you to build one Sink Unit
+Jukebox_Kit:Jukebox Kit
+Tooltip_Jukebox_Kit:A kit that allows you to build one Jukebox Unit
+JukeboxSpeaker_Kit:Jukebox Speaker Kit
+Tooltip_JukeboxSpeaker_Kit:A kit that allows you to build one Jukebox Speaker Unit
+JukeBoxSubWoofer_Kit:Jukebox Sub Woofer Kit
+Tooltip_JukeBoxSubWoofer_Kit:A kit that allows you to build one Jukebox Sub Woofer Unit
+Stairs_Kit:Hatch Stairway Kit
+Tooltip_Stairs_Kit:A kit that allows you to build one Hatch Stairway Unit
+HologramPoster_Kit:Hologram Poster Kit
+Tooltip_HologramPoster_Kit:A kit that allows you to build one Hologram Poster Unit
+pccpu_kit:Computer CPU Kit
+Tooltip_pccpu_kit:A kit that allows you to build one Computer CPU Unit
+pcmonitor_kit:Computer Monitor Kit
+Tooltip_pcmonitor_kit:A kit that allows you to build one Computer Monitor Unit
+wallSign_kit:Wall Sign Kit
+Tooltip_wallSign_kit:A kit that allows you to build one Wall Sign Unit
+outsideSign_kit:Outside Sign Kit
+Tooltip_outsideSign_kit:A kit that allows you to build one Outside Sign Unit
+tableSmartTV_kit:Smart TV With Table Mount Kit
+Tooltip_tableSmartTV_kit:A kit that allows you to build one Smart TV With Table Mount Unit
+mountSmartTV_kit:Smart TV With Wall Mount Kit
+Tooltip_mountSmartTV_kit:A kit that allows you to build one Smart TV With Wall Mount Unit
+ahsrailing_kit:Railing Kit
+Tooltip_ahsrailing_kit:A kit that allows you to build one Railing Unit
+ahsrailingglass_kit:Railing With Glass Kit
+Tooltip_ahsrailingglass_kit:A kit that allows you to build one Railing With Glass Unit
+ahsleftcornerrailing_kit:Railing Left Corner Kit
+Tooltip_ahsleftcornerrailing_kit:A kit that allows you to build one Railing Left Corner Unit
+ahsleftcornerwGlassrailing_kit:Railing Left Corner wGlass Kit
+Tooltip_ahsleftcornerwGlassrailing_kit:A kit that allows you to build one Railing Left Corner wGlass Unit
+ahsrightcornerrailing_kit:Railing Right Corner Kit
+Tooltip_ahsrightcornerrailing_kit:A kit that allows you to build one Railing Right Corner Unit
+ahsrightcornerwGlassrailing_kit:Railing Right Corner wGlass Kit
+Tooltip_ahsrightcornerwGlassrailing_kit:A kit that allows you to build one Railing Right Corner wGlass Unit
+floorShelf01_kit:Floor Shelf 1 Kit
+Tooltip_floorShelf01_kit:A kit that allows you to build one Floor Shelf 1 Unit
+floorShelf02_kit:Floor Shelf 2 Kit
+Tooltip_floorShelf02_kit:A kit that allows you to build one Floor Shelf 2 Unit
+floorShelf03_kit:Floor Shelf 3 Kit
+Tooltip_floorShelf03_kit:A kit that allows you to build one Floor Shelf 3 Unit
+floorShelf04_kit:Floor Shelf 4 Kit
+Tooltip_floorShelf04_kit:A kit that allows you to build one Floor Shelf 4 Unit
+floorShelf05_kit:Floor Shelf 5 Kit
+Tooltip_floorShelf05_kit:A kit that allows you to build one Floor Shelf 5 Unit
+floorShelf06_kit:Floor Shelf 6 Kit
+Tooltip_floorShelf06_kit:A kit that allows you to build one Floor Shelf 6 Unit
+floorShelf07_kit:Floor Shelf 7 Kit
+Tooltip_floorShelf07_kit:A kit that allows you to build one Floor Shelf 7 Unit
+neonShelf01_kit:Neon Shelf 01 Kit
+Tooltip_neonShelf01_kit:A kit that allows you to build one Neon Shelf 01 Unit
+neonShelf02_kit:Neon Shelf 02 Kit
+Tooltip_neonShelf02_kit:A kit that allows you to build one Neon Shelf 02 Unit
+neonShelf03_kit:Neon Shelf 03 Kit
+Tooltip_neonShelf03_kit:A kit that allows you to build one Neon Shelf 03 Unit
+neonTable01_kit:Neon Table 01 Kit
+Tooltip_neonTable01_kit:A kit that allows you to build one Neon Table 01 Unit
+neonTable02_kit:Neon Table 02 Kit
+Tooltip_neonTable02_kit:A kit that allows you to build one Neon Table 02 Unit
+rug_kit:Rug Kit
+Tooltip_rug_kit:A kit that allows you to build one Rug Unit
+LedLightStickLong_Kit:Long LED Light Stick Kit
+Tooltip_LedLightStickLong_Kit:A kit that allows you to build one Long LED Light Stick Unit
+LedLightStickShort_Kit:Short LED Light Stick Kit
+Tooltip_LedLightStickShort_Kit:A kit that allows you to build one Short LED Light Stick Unit
+LedLightStickWall_Kit:Wall Mountable LED Light Strip Kit
+Tooltip_LedLightStickWall_Kit:A kit that allows you to build one Wall Mountable LED Light Strip Unit
+FloodLEDLight_Kit:LED Flood Light Kit
+Tooltip_FloodLEDLight_Kit:A kit that allows you to build one LED Flood Light Unit
+RingLight_Kit:Ring Light Kit
+Tooltip_RingLight_Kit:A kit that allows you to build one Ring Light Unit
+CabinetWide_Kit:Wide Floor Cabinet Kit
+Tooltip_CabinetWide_Kit:A kit that allows you to build one Wide Floor Cabinet Unit
+CabinetMediumTall_Kit:Medium Vertical Cabinet Kit
+Tooltip_CabinetMediumTall_Kit:A kit that allows you to build one Medium Vertical Cabinet Unit
+CabinetTall_Kit:Tall Vertical Cabinet Kit
+Tooltip_CabinetTall_Kit:A kit that allows you to build one Tall Vertical Cabinet Unit
+CabinetTVStand_Kit:Cabinet T.V Stand Kit
+Tooltip_CabinetTVStand_Kit:A kit that allows you to build one Cabinet T.V Stand Unit
+FCSCrewLocker_Kit:Crew Locker Kit
+Tooltip_FCSCrewLocker_Kit:A kit that allows you to build one Crew Locker Unit
+Sofa1_Kit:Sofa 1 Kit
+Tooltip_Sofa1_Kit:A kit that allows you to build one Sofa 1 Unit
+Sofa2_Kit:Sofa 2 Kit
+Tooltip_Sofa2_Kit:A kit that allows you to build one Sofa 2 Unit
+Sofa3_Kit:Sofa 3 Kit
+Tooltip_Sofa3_Kit:A kit that allows you to build one Sofa 3 Unit
+NeonBarStool_Kit:Neon Bar Stool Kit
+Tooltip_NeonBarStool_Kit:A kit that allows you to build one Neon Bar Stool Unit
+Toilet_Kit:Toilet Kit
+Tooltip_Toilet_Kit:A kit that allows you to build one Toilet Unit
+microwave_kit:Microwave Kit
+Tooltip_microwave_kit:A kit that allows you to build one Microwave Unit
+curingCabinet_kit:Curing Cabinet Kit
+Tooltip_curingCabinet_kit:A kit that allows you to build one Curing Cabinet Unit
+BunkBed_Kit:Crew Bunk Bed Kit
+Tooltip_BunkBed_Kit:A kit that allows you to build one Crew Bunk Bed Unit
+DisplayBoard_Kit:Display Board Kit
+Tooltip_DisplayBoard_Kit:A kit that allows you to build one Display Board Unit
+Ency_AlterraHubDepot:AlterraHub Depot
+EncyDesc_AlterraHubDepot:Please open your AlterraHub PDA to read this data entry (Backslash). Make sure you have completed the Alterra Hub Station mission to do so.
+Ency_OreConsumer:Alterra Ore Consumer
+EncyDesc_OreConsumer:Please open your AlterraHub PDA to read this data entry (Backslash). Make sure you have completed the Alterra Hub Station mission to do so.
+FCSDataBox:FCS Data Box
+DebitCard:Alterra Debit Card
+Tooltip_DebitCard:This card lets you access your Alterra Account. You must have this card with you to make Alterra Hub purchases.
+AlterraTransportDrone:Alterra Transport Drone
+Tooltip_AlterraTransportDrone:Alterra Transport Drone for transpoarting your alterra kits
+AlterraHubStation:AlterraHub Station
+Tooltip_AlterraHubStation:N/A
+OreConsumer:Alterra Ore Consumer
+Tooltip_OreConsumer: Turns your ores into credits to use at the Alterra Hub. The Ore Consumer is always very hungry: keep it well fed.
+AlterraHubDepot:AlterraHub Depot
+Tooltip_AlterraHubDepot:Holds delivered AlterraHub Orders for pickup.
+DronePortPad:Transport Drone Terminal
+Tooltip_DronePortPad:Receives Transport Drones to transfer items to and from the AlterraHub Depot.
+PatreonStatue:Patreon Statue
+Tooltip_PatreonStatue:A ‘Thank You’ from FCStudios listing the names of Patreon Supporters.
+FCSUnlocker:FCS Access Key
+Tooltip_FCSUnlocker:TechType to unlock FCSItems
+AHB_RequestNewCard:Request New Card.
+AHB_CreateNewAccount:Create New Account.
+AHB_CardNotInSystemSettingBalanceFormat:This card number ({0}) wasn't found in the system. Setting balance to {1}.
+AHB_ErrorHasOccurred:An error has occurred please let FCStudios in the Alterra Corp. know about this error. Thank you and sorry for the inconvenience. Error Code: {0}
+AHB_NotEnoughMoneyOnAccount:There is not enough money on card to perform this transaction.
+AHB_AccountNotFoundFormat:Unable to locate your AlterraHub Account. Please consult your FCStudios PDA.
+AHB_CardReader:Card Reader
+AHB_AccountBalanceFormat:Account Balance: {0}
+AHB_DebtBalanceFormat:Debt Balance: {0}
+AHB_CheckOutTotalFormat:Cart Total: {0}
+AHB_AccountNewBalanceFormat:New Balance: {0}
+AHB_NoValidCardForPurchase:Please select a valid card with enough finances to complete transaction.
+AHB_NoItemsInCart:No items in the card to purchase!
+AHB_CartMaxItems:No more items can be added to the cart!. Please remove items to add more to the cart.
+AHB_OreConsumerReceptacle:Add ores to cash in.
+AHB_AccountTotal:Account Total
+AHB_TransferMoney:Transfer Money
+AHB_RemoveAllCreditFromDevice:Remove all credit to card before destroying.
+AHB_Account:ACCOUNT
+AHB_WelcomeBack:WELCOME BACK!
+AHB_CardRequirementsMessage:You need x1 {0} and x1 {1} to get a new card.
+AHB_RegisterWelcomeMessage:Create an account and get your free card!
+AHB_FullName:Full Name
+AHB_UserName:User Name
+AHB_Password:Password
+AHB_PIN:PIN (4 Digits)
+AHB_FullNamePlaceHolder:Enter Full Name...
+AHB_UserNamePlaceHolder:Enter username...
+AHB_PasswordPlaceHolder:Enter password...
+AHB_PINPlaceHolder:Enter pin number...
+AHB_AccountCreated:Thank you for registering for a temporary Alterra Account. Your current account balance is {0}
+AHB_NoCardInventory:Error: No debit card detected. There is no card in your inventory. Your account card is needed for validation.Please get you card or request a new on from the account page.
+AHB_AccountSetupError:[Error] Please refill the following fields and press enter in the field to continue: {0}
+AHB_OreConsumerTimeLeftFormat:Time left till {0} ore processed {1} | Pending {2} (Container Limit: {3}).
+AHB_NoOresToProcess:No ores to process.
+AHB_PleaseBuildOnPlatForm:Please Build on a platform to operate.
+AHB_BaseOnOff:{0} is now {1}.
+AHB_Online:online
+AHB_Offline:offline
+AHB_ChangeBaseName:Change Base Name
+AHB_ClickToSearchForItems:Click to search for items...
+AHB_BlackListItemFormat:{0} item is in the blacklist an will not be pulled from the vehicle.
+AHB_NoVehicles:No vehicles are docked at this base.
+AHB_NegativeNumbersNotAllowed:Negative numbers not allowed
+AHB_PressToTurnDeviceOnOff:Press {0} to turn device on/off
+AHB_DeviceOn:Device ON
+AHB_DeviceOff:Device OFF
+AHB_Bulk:Bulk
+AHB_FoodItemsNotAllowed:Cooked food items are not allowed in Data Storage Solutions.
+AHB_PDAButtonPressFormat:Press ({0}) to open Alterra Hub PDA
+AHB_OperationExists:Similar operation already exists for device {0}
+AHB_DepotFull:Depot is full or doesn't have enough space for your purchase.
+AHB_DepotNotFound:Depot cannot be located.
+AHB_PurchaseSuccessful:Purchase was successful. Your items will be shipped to your selected base.
+AHB_ErrorLoadingAccountDetails:There was an error loading your account details. Please contact FCStudio about this issue. Please provide your game log located in the Subnautica root folder. \nFileName:"qmodmanager_log-Subnautica.txt"
+AHB_NoSpaceAccountCreation:To complete your account creation, you need at least one slot to receive your debit card. Please try again once one inventory slot is available in your inventory.
+AHB_NoDestinationFound:Please select a destination for your items to be transferred to. You must have an AlterraHub Depot at a base.
+AHB_IsDeviceOn:Device On: {0}
+AHB_PowerPerMinute:Distance Related Power Loss: {0} epm
+AHB_Waiting:WAITING
+AHB_DoorInstructions:Put in the correct 4 digit pin to unlock the door
+AHB_CannotRemovePowercell:Cannot remove powercell from generator.
+AHB_AntennaPinNeededMessage:Valid 4 digit pin required to activate antenna.
+AHB_ProcessingItem:Processing Item
+AHB_OreValue:Ore Value
+AHB_TimeLeft:Time Left
+AHB_PleaseClearHands:Please clear hands (E) to use.
+AHB_DebitHasBeenPaid:Your balance has been paid off.
+AHB_MustBeBuiltOnBasePlatform:Must be built on Base Platform
+AHB_HolsterPaintTool:To change color and pattern/image use the Paint Tool.
+AHB_Error404:Connection to station failed! Please visit the AlterraHub Fabrication Facility for assistance.
+AHB_OrderBeingShipped:Your order is now being shipped to base
+AHB_OrderHasBeenShipped:Your order has been shipped to base
+AHB_NoPowerEmergencyMode:NO POWER SYSTEM IN EMERGENCY MODE
+AHB_BaseIDFormat:Base ID: {0}
+AHB_CreditMessage:Added {0} to account new balance is {1}
+AHB_PressToInteractWith:Press {0} to interact with {1}

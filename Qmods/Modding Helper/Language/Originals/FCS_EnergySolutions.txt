@@ -1,0 +1,49 @@
+﻿AES_JetStreamT242OnHover:{0} Information: (charge: {1}/{2}) | (production per minute: {3})
+AES_WindSurferOnHover:WindSurfer {0} Information: (charge: {1}/{2}) | (production per minute: {3})
+AES_JetStreamOnHoverInteractionFormatted:Press {0} to Turn on / off Turbine. Current State {1}
+AES_OnlyPowercellsAllowed:Only powercells are allowed.
+AES_UniversalChargerNotEmpty:Please remove all powercells before trying to deconstruct.
+AES_UniversalChargerCannotChangeMode:Cannot switch mode because charger is not empty
+AES_UniversalChargerSwitchMode:Switch Charger Mode
+AES_UniversalChargerSwitchModeDesc:Changes the charger between charging powercells and batteries
+AES_NotUnderWater:Cannot operate out of water.
+AES_NotUnderWaterDesc:Turbine cannot function  above 3 meters
+AES_NotOnPlatform:JetStreamT242 must be built on a base platform to operate. This is best for efficiency and stability.
+AES_SolarClusterHover:(sun: {0}% charge: {1} /{2}) (Power Generation Per Second: {3})
+AES_RemoveAllTelepowerConnections:Please remove all connections to in this pylon before deconstruction.
+AES_RemoveAllTelepowerConnectionsPush:Please remove all connections to this pylon before switching to push mode.
+AES_RemoveAllTelepowerConnectionsPull:Please remove all connections to this pylon before switching to pull mode.
+AES_MaximumConnectionsReached:The maximum amount of connections have been reached. Please use an upgrade to get more slots.
+AES_SelectAMode:Select a Mode or Connect to another Pylon.
+AES_WindSurferMaxReached:Maximum platform allowance reached. No more platforms can be added.
+AlterraGen:Alterra Gen
+Tooltip_AlterraGen:Versatile bio-reactor holding 9 biological items of any size, suitable for interior and exterior use.
+AG_OpenDumpContainer:Open Dump Container
+AG_PowerStateLBL:Power State:
+AG_PowerUnitLBL:kW:
+AG_BatteryPercentageLBL:Battery Percentage:
+AG_BreakerStateLBL:Breaker State:
+AG_ItemCounterFormat:Items: {0} / {1}
+FCSBioFuel:Bio Fuel
+Tooltip_FCSBioFuel:A tank of high-quality Bio Fuel, suitable for use in all Bioreactors.
+AlterraSolarCluster:Alterra Solar Cluster
+Tooltip_AlterraSolarCluster:The Alterra Solar Cluster is the latest in efficient photon conversion, giving you a reliable, maintenance free power source anywhere the sun goes.
+JetStreamT242:JetStreamT242
+Tooltip_JetStreamT242:The T242 turbine generates power from water currents, automatically adjusting  for optimal power generation. Note that some biomes may have stronger currents than others.
+TelepowerPylon:Telepower Pylon
+Tooltip_TelepowerPylon:With a Telepower Pylon, you can send or receive energy wirelessly across vast distances. Requires one to Send / Push and another to Receive / Pull.
+TelepowerMk2Upgrade:Telepower MK2 Upgrade
+Tooltip_TelepowerMk2Upgrade:Allows you to upgrade your Telepower Pylon to the MK2 level which allows you to connect to 8 devices
+TelepowerMk3Upgrade:Telepower MK3 Upgrade
+Tooltip_TelepowerMk3Upgrade:Allows you to upgrade your Telepower Pylon to the MK3 level which allows you to connect to 10 devices
+PowerStorage:PowerStorage
+Tooltip_PowerStorage:Zero maintenance power backup. Stores energy when Base Power is plentiful, discharges energy when Base Power is low.
+UniversalCharger:Universal Charger
+Tooltip_UniversalCharger:Holds up to 10 Power Cells or 10 Batteries and recharges them when Base Power is plentiful
+ConstructorMenu_FCSWindSurfer:Wind Surfer
+WindSurferOperator:Wind Surfer Operator
+Tooltip_WindSurferOperator:Build and control up to 15 WindSurfer turbines, broadcasting their power via integrated Telepower Pylon.
+WindSurfer:Wind Surfer
+Tooltip_WindSurfer:Wind turbine floating platform, built with Operator.
+WindSurferPlatform:Wind Surfer Platform
+Tooltip_WindSurferPlatform: Floating platform, built with Operator.

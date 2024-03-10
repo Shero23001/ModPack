@@ -1,0 +1,2 @@
+﻿CySimpSolarCharger:Cyclops Solar Charging Module
+Tooltip_CySimpSolarCharger:Recharges the Cyclops power cells while in sunlight.\nDOES NOT STACK with other solar chargers.

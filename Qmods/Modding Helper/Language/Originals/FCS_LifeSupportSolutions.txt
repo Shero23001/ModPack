@@ -1,0 +1,27 @@
+﻿ALS_Clear:CLEAR
+ALS_Purchase:PURCHASE
+ALS_Cost:COST: {0}
+ALS_InvalidItem:INVALID ITEM NUMBER
+ALS_NoDebitCard:NO DEBIT CARD DETECTED
+ALS_NotEnoughCredit:NOT ENOUGH CREDIT
+ALS_NoMedKitsToTake:There are no MedKits please wait for more to generate.
+ALS_HealPlayer:Heal Player
+ALS_TakeOxygen:TAKE OXYGEN
+ALS_TakeOxygenDesc:Gives you oxygen directly from the base utility unit
+ALS_HasPipeAttachment:Tank has pipe attached please disconnect pipe to deconstruct.
+EnergyPillVendingMachine:Energy Pill Vending Machine
+Tooltip_EnergyPillVendingMachine:Vending Machine for Alterra Energy Pills. Get the performance boost you need when you’re extremely hungry or thirsty.
+RedEnergyPill:Red Adrenaline Pill
+Tooltip_RedEnergyPill:The red adrenaline pill refills your adrenaline bar to give you a 2 minute boost, returning your speed to normal when you are extremely hungry or thirsty.
+GreenEnergyPill:Green Adrenaline Pill
+Tooltip_GreenEnergyPill:The green adrenaline pill refills your adrenaline bar to give you a 1 minute boost, returning your speed to normal when you are extremely hungry or thirsty.
+BlueEnergyPill:Blue Adrenaline Pill
+Tooltip_BlueEnergyPill:The blue adrenaline pill refills your adrenaline bar to give you a 30 second boost, returning your speed to normal when you are extremely hungry or thirsty.
+MiniMedBay:Mini Med Bay
+Tooltip_MiniMedBay:Autonomous Medical Bay for rapid diagnosis and healing. This model contains an integrated 6-slot Medical Kit Fabricator.
+BaseUtilityUnit:Base Utility Unit
+Tooltip_BaseUtilityUnit:Supplies Oxygen and pressurized Water to your entire base. With pressurized water, the Mini Fountain Filter can operate at any height above the water line.
+BaseOxygenTankKitType:Base Oxygen Tank
+Tooltip_BaseOxygenTankKitType:Provides pressurized oxygen when connected to it's own Floating Air Pump with Pipe sections. Designed for small habitats; larger habitats may require more units. Move close to see Tank utilization.
+BaseOxygenTank:Base Oxygen Tank
+Tooltip_BaseOxygenTank:Provides pressurized oxygen when connected to it's own Floating Air Pump with Pipe sections. Designed for small habitats; larger habitats may require more units. Move close to see Tank utilization.

@@ -1,0 +1,4 @@
+﻿CyclopsSpeedModule:Cyclops Speed Boost Module
+Tooltip_CyclopsSpeedModule:Increases the drive power of the cyclops engines, adding greater speeds at the cost of higher energy consumption.\nCan stack up to 6 boosters for maximum effect at highest cost.
+CySpeedMaxed:Maximum speed rating reached
+CySpeedCurrent:Speed rating is now at +{0} ({1}%).
