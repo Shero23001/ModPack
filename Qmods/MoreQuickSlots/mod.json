@@ -3,6 +3,7 @@
   "DisplayName": "More Quick Slots",
   "Author": "RandyKnapp",
   "Version": "1.1.7",
+  "NitroxCompat" : true,
   "Requires": [ "0Harmony-1.2.0.1.dll" ],
   "Enable": true,
   "AssemblyName": "MoreQuickSlots.dll",

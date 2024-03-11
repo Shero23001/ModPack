@@ -3,6 +3,7 @@
   "DisplayName": "FCS Production Solutions",
   "Author": "Field Creators Studios",
   "Version": "1.0.1.117",
+  "NitroxCompat" : true,
   "Game": "Subnautica",
   "AssemblyName": "FCS_ProductionSolutions.dll",
   "VersionDependencies": {

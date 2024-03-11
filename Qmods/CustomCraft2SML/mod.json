@@ -2,6 +2,7 @@
   "Id": "CustomCraft2SML",
   "DisplayName": "CustomCraft2",
   "Author": "PrimeSonic & contributors",
+  "NitroxCompat" : true,
   "Version": "1.11.0",
   "Enable": true,
   "AssemblyName": "CustomCraft2SML.dll",

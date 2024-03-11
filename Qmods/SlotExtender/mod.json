@@ -3,6 +3,7 @@
   "DisplayName": "SlotExtender",
   "Author": "Senna, PrimeSonic, Zorgesho",
   "Version": "2.6.3",
+  "NitroxCompat" : true,
   "Dependencies": ["SMLHelper"],  
   "Enable": true,
   "Game": "Subnautica",

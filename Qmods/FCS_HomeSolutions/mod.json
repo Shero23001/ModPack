@@ -4,6 +4,7 @@
   "Author": "Field Creators Studios",
   "Description": "Home Soltions is a mod that adds furniture and some functional items to subnuatica.",
   "IconName": "PackIcon.png",
+  "NitroxCompat" : true,
   "Version": "1.1.1.96",
   "Game": "Subnautica",
   "VersionDependencies": {

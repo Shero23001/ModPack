@@ -3,6 +3,7 @@
   "DisplayName": "FCS Storage Solutions",
   "Author": "Field Creators Studios",
   "Version": "1.0.1.26",
+  "NitroxCompat" : true,
   "Game": "Subnautica",
   "AssemblyName": "FCS_StorageSolutions.dll",
   "VersionDependencies": {

@@ -3,6 +3,7 @@
   "DisplayName": "FCS Life Support Solutions",
   "Author": "Field Creators Studios",
   "Version": "1.0.1.13",
+  "NitroxCompat" : true,
   "Game": "Subnautica",
   "AssemblyName": "FCS_LifeSupportSolutions.dll",
   "VersionDependencies": {

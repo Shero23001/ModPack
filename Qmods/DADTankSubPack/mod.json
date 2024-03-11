@@ -2,6 +2,7 @@
   "Id": "DADTankSubPack",
   "DisplayName": "Socknautica Submarines Pack",
   "Author": "Lee23, Ryferion, ShirubaFoxy, Socksfor1",
+  "NitroxCompat" : true,
   "Version": "1.0.5",
   "VersionDependencies": {
     "SMLHelper": "2.9"
