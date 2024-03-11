@@ -1,8 +1,0 @@
-{
-  "stepMove": 0.1,
-  "stepRotate": 0.5,
-  "defPosY": -0.0465,
-  "chargeCameras": false,
-  "ignoreEnginesColliders": true,
-  "tryFixCollisionBug": true
-}
