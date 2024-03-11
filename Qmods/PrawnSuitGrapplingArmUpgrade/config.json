@@ -1,8 +1,0 @@
-{
-  "armCooldown": 0.1,
-  "hookMaxDistance": "Infinity",
-  "hookSpeed": 9999999.0,
-  "acceleration": 9999999.0,
-  "force": 6E+07,
-  "fragmentCountToUnlock": 0
-}
